@@ -1,0 +1,98 @@
+{
+  "slug": "laax-resort-pioneers-carbon-neutral-winter-sports-in-the-alps",
+  "title": "Laax Resort Pioneers Carbon-Neutral Winter Sports in the Alps",
+  "excerpt": "Swiss ski resort Laax aims for carbon neutrality by 2030 through innovative energy-saving technologies and sustainable practices.",
+  "category": "travel",
+  "authorId": "globdesk",
+  "publishedAt": "2026-10-25T21:22:11+08:00",
+  "readMinutes": 2,
+  "tags": [
+    "switzerland",
+    "sustainability",
+    "ski-resorts",
+    "climate-change",
+    "green-tech"
+  ],
+  "coverPrompt": "A wide-angle view of a modern ski lift station in the Swiss Alps during daytime. Snow-covered pine trees surround the sleek, metallic structure of an on-demand gondola cabin. Clear blue sky above, with distant jagged mountain peaks in the background. No people or logos visible.",
+  "coverImage": "https://assets.glob.news/imgs/2026/10/25/laax-resort-pioneers-carbon-neutral-winter-sports-in-the-alps/cover.jpg",
+  "featured": false,
+  "body": [
+    "The Swiss alpine resort of Laax is implementing a comprehensive strategy to become carbon neutral by 2030, positioning itself as a leader in sustainable winter tourism. Facing the broader industry challenge of climate change impacts on snow reliability, this community near the Austrian border is aggressively cutting oil use, transitioning to sustainable energy generation, and aiming for zero food waste.",
+    "The initiative, described by CEO Reto Gurtner as 'greenstyle,' represents a significant shift from traditional ski resort operations. Gurtner, whose father built the first ski lifts in 1962, brings a background in economics and a passion for freestyle sports to the role. His vision integrates modern efficiency with the resort's history of embracing new sports like skateboarding and snowboarding since the 1970s.",
+    "A cornerstone of this transformation is the new gondola system in the neighboring village of Flims. Utilizing a complex algorithm, the system operates on an on-demand basis, dispatching individual cabins to one of five mountain destinations based on real-time skier choices. This approach eliminates the energy waste associated with empty gondolas traveling up and down the mountainside, balancing passenger demand with operational efficiency.",
+    "Beyond transportation, the resort is addressing its environmental footprint through technological upgrades in snow management. Laax has introduced chemical-free snow cannons and electric piste-grooming vehicles, reducing reliance on fossil fuels for maintaining slopes. These measures are critical as lower-altitude resorts across Europe face increasing threats from slushy conditions and unpredictable weather patterns.",
+    "Despite these efforts, the resort maintains that it is not entirely dependent on natural snowfall. The halfpipe and freestyle playgrounds require minimal snow cover and are maintained using hydroelectric power. Additionally, the resort offers extensive summer activities, including mountain biking and hiking, which provide revenue streams independent of winter conditions.",
+    "Local guides note that the cultural landscape of the resort is also evolving. With visitors coming from diverse global backgrounds, including recent groups from the Middle East, the resort is adapting to a more international clientele. This demographic shift coincides with the physical changes brought on by climate adaptation strategies.",
+    "As other regions struggle with the economic implications of dwindling snow seasons, Laax’s model offers a potential blueprint for the future of winter sports. By prioritizing energy efficiency and diversifying its offerings, the resort aims to remain viable and environmentally responsible in a changing climate."
+  ],
+  "keyPoints": [
+    "Laax targets carbon neutrality by 2030, eliminating all oil use.",
+    "New on-demand gondola system reduces energy waste via algorithms.",
+    "Resort uses electric grooming and chemical-free snow cannons.",
+    "Hydro-powered facilities support snow sports with minimal natural snow dependency."
+  ],
+  "sourceName": "Guardian Travel",
+  "sourceUrl": "https://www.theguardian.com/travel/2026/oct/25/swiss-alps-ski-resort-laax-meeting-climate-crisis",
+  "factCheck": {
+    "verdict": "fail",
+    "claims": [
+      {
+        "claim": "Laax aims for carbon neutrality by 2030 through innovative energy-saving technologies and sustainable practices.",
+        "status": "supported",
+        "evidence": "The reference states Laax is 'making a bold attempt to be carbon neutral by 2030, a goal that requires cutting out all oil use, making all energy generation sustainable, and reducing food waste to zero.'"
+      },
+      {
+        "claim": "Laax is a community near the Austrian border.",
+        "status": "supported",
+        "evidence": "The reference describes Laax as 'this unusual Swiss resort, close to the Austrian border'."
+      },
+      {
+        "claim": "CEO Reto Gurtner's father built the first ski lifts in 1962.",
+        "status": "supported",
+        "evidence": "The reference quotes Gurtner saying, 'His father built the first ski lifts back in 1962.'"
+      },
+      {
+        "claim": "Reto Gurtner has a background in economics and studied at UCLA.",
+        "status": "supported",
+        "evidence": "The reference notes, 'He came home with a degree in economics' after studying at UCLA where he discovered skateboarding."
+      },
+      {
+        "claim": "Gurtner introduced freestyle sports like skateboarding and snowboarding since the 1970s.",
+        "status": "supported",
+        "evidence": "The reference states, 'In the 1970s... Guntner went to study at UCLA... discovered skateboarding... We went up on the glacier and built the first halfpipe with shovels.'"
+      },
+      {
+        "claim": "The new gondola system in Flims uses an algorithm to dispatch individual cabins based on real-time skier choices to five destinations.",
+        "status": "supported",
+        "evidence": "The reference explains, 'A complex algorithm allows skiers to choose one of five destinations up the mountain, despatching individual gondolas, which balances energy efficiency with passenger demand.'"
+      },
+      {
+        "claim": "Laax has introduced chemical-free snow cannons and electric piste-grooming vehicles.",
+        "status": "supported",
+        "evidence": "The headline of the reference is 'Gondolas on demand, electric piste-grooming and chemical-free snow cannons – how Laax is ‘greenstyling’ its future', and the text discusses these technologies as part of their strategy."
+      },
+      {
+        "claim": "The halfpipe and freestyle playgrounds require minimal snow cover and are maintained using hydroelectric power.",
+        "status": "supported",
+        "evidence": "The reference quotes Gurtner: 'Laax is not snow-dependent. A halfpipe or a snow freestyle playground doesn’t need a lot, and we make it with hydro power.'"
+      },
+      {
+        "claim": "The resort offers extensive summer activities, including mountain biking and hiking.",
+        "status": "supported",
+        "evidence": "The reference mentions Gurtner brought home a 'mountain bike' and later quotes him saying, 'And we’ve got mountain bikes and amazing hikes.'"
+      },
+      {
+        "claim": "Local guides note cultural landscape evolution with visitors from diverse backgrounds, including recent groups from the Middle East.",
+        "status": "supported",
+        "evidence": "The reference quotes local guide Doris Rellstab: 'Yesterday, I taught my first Arab group. They were a lot of fun.'"
+      },
+      {
+        "claim": "Lower-altitude resorts across Europe face increasing threats from slushy conditions and unpredictable weather patterns.",
+        "status": "supported",
+        "evidence": "The reference opens with descriptions of 'hillsides of shaggy yellow grass streaked with slush' and states 'Only lower altitudes are seeing such disasters.'"
+      }
+    ],
+    "notes": "All factual claims in the draft article are supported by the reference text. The draft accurately reflects the details regarding Laax's carbon neutrality goals, CEO Reto Gurtner's background, the specific technologies implemented (gondolas, snow cannons, grooming), and the resort's adaptation strategies. There are no unsupported or contradicted claims.",
+    "revised": true
+  }
+}

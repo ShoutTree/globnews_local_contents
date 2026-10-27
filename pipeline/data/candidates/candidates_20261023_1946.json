@@ -1,0 +1,124 @@
+{
+  "generated_at": "2026-10-23T19:46:16",
+  "source_model": "qwen3.7-flash",
+  "total": 13,
+  "candidates": [
+    {
+      "title": "Orangutans choose treats linked to laughter sounds",
+      "description": "New research reveals that captive orangutans are more likely to select food associated with the sound of their peers laughing, suggesting emotions play a key role in animal learning.",
+      "category": "science",
+      "source_url": "https://www.theguardian.com/science/2026/oct/21/orangutans-prefer-food-laughter-sounds-study",
+      "source_name": "Guardian Science",
+      "score": 9,
+      "approved": true
+    },
+    {
+      "title": "Finnish puppy livestream becomes TV smash hit",
+      "description": "A 24-hour webcam following newborn puppies and their mother has captivated millions of viewers, offering wholesome updates on the pups' growth and development.",
+      "category": "culture",
+      "source_url": "https://www.theguardian.com/world/2026/oct/23/finnish-24-hour-puppy-dog-newborn-livestream-tv-smash-hit",
+      "source_name": "Guardian Life",
+      "score": 8,
+      "approved": false
+    },
+    {
+      "title": "Blue Planet III captures octopus escape from death",
+      "description": "The latest David Attenborough series features a dramatic sequence where an octopus narrowly escapes after a hunt goes wrong, showcasing nature's resilience.",
+      "category": "planet",
+      "source_url": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Science",
+      "score": 9,
+      "approved": false
+    },
+    {
+      "title": "Scientists find potential way to save the banana",
+      "description": "With climate change and disease threatening the Cavendish banana, researchers hope a breakthrough in breeding techniques could secure its future for consumers worldwide.",
+      "category": "science",
+      "source_url": "https://www.theguardian.com/global-development/2026/oct/22/have-scientists-finally-found-a-way-to-save-the-banana-from-disaster",
+      "source_name": "Guardian Science",
+      "score": 8,
+      "approved": false
+    },
+    {
+      "title": "Retired decorator finds £1.5m Pokémon treasure",
+      "description": "A man discovered a rare collection of Pokémon cards stored in his attic for 15 years, turning a forgotten hobby into a significant financial windfall.",
+      "category": "culture",
+      "source_url": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Arts",
+      "score": 7,
+      "approved": false
+    },
+    {
+      "title": "Apple Watch Ultra 4 review: better battery life",
+      "description": "Apple’s latest smartwatch delivers improved health tracking and significantly longer battery life, though it awaits more transformative AI features.",
+      "category": "technology",
+      "source_url": "https://www.theguardian.com/technology/2026/oct/23/apple-watch-ultra-4-review-longer-battery-life-health-tracking",
+      "source_name": "Guardian Tech",
+      "score": 7,
+      "approved": false
+    },
+    {
+      "title": "Matilda musical celebrates 15 years of success",
+      "description": "The beloved stage adaptation continues to delight audiences globally, having been seen by over 12 million people since its debut in Stratford-upon-Avon.",
+      "category": "culture",
+      "source_url": "https://www.bbc.co.uk/news/articles/c84g1zxeg9r4o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Arts",
+      "score": 7,
+      "approved": false
+    },
+    {
+      "title": "Australia offers astronaut Katherine Bennell-Pegg for ISS mission",
+      "description": "The Australian of the Year has been selected for a 2028 space mission to the International Space Station, potentially becoming the first Australian astronaut under the national flag.",
+      "category": "science",
+      "source_url": "https://www.theguardian.com/australia-news/2026/oct/23/australian-astronaut-katherine-bennell-pegg-2028-space-mission",
+      "source_name": "Guardian Science",
+      "score": 8,
+      "approved": false
+    },
+    {
+      "title": "Gen Z embraces Y2K cars over new SUVs",
+      "description": "Young Americans are increasingly choosing affordable, fixable used cars from the early 2000s, defying expectations and prioritizing independence over new vehicle loans.",
+      "category": "travel",
+      "source_url": "https://www.theguardian.com/us-news/2026/oct/23/y2k-used-cars-gen-z",
+      "source_name": "Guardian Tech",
+      "score": 7,
+      "approved": false
+    },
+    {
+      "title": "Tour de France 2027 routes reveal British stages",
+      "description": "Organizers unveiled an ambitious start for next year's race, featuring six days of racing across Scotland, England, and Wales before heading to France.",
+      "category": "sports",
+      "source_url": "https://www.theguardian.com/sport/2026/oct/22/tour-de-france-2027-routes-revealed",
+      "source_name": "Guardian Sport",
+      "score": 7,
+      "approved": false
+    },
+    {
+      "title": "Eleven-year-old chess prodigy eyes world record",
+      "description": "Bodhana Sivanandan is poised to become the youngest female international master in history, breaking Judit Polgar’s long-standing age record.",
+      "category": "sports",
+      "source_url": "https://www.theguardian.com/sport/2026/oct/23/chess-bodhana-sivanandan-11-can-break-another-world-age-record-on-friday",
+      "source_name": "Guardian Sport",
+      "score": 8,
+      "approved": false
+    },
+    {
+      "title": "Citizen scientists track global shoreline changes",
+      "description": "An app called CoastSnap allows volunteers worldwide to use their camera phones to help researchers monitor coastal erosion and environmental changes effectively.",
+      "category": "planet",
+      "source_url": "https://www.theguardian.com/news/2026/oct/23/how-citizen-science-is-tracking-changes-in-shorelines-around-the-world",
+      "source_name": "Guardian Science",
+      "score": 7,
+      "approved": false
+    },
+    {
+      "title": "Grandmas take over TikTok with 15 million followers",
+      "description": "Several grandmothers have found viral fame on social media, sharing their lives and wisdom with massive audiences and proving age is just a number online.",
+      "category": "culture",
+      "source_url": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Business",
+      "score": 7,
+      "approved": false
+    }
+  ]
+}

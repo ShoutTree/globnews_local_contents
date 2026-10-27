@@ -1,0 +1,105 @@
+{
+  "slug": "catherine-breed-becomes-first-to-swim-entire-california-coastline",
+  "title": "Catherine Breed Becomes First to Swim Entire California Coastline",
+  "excerpt": "Ultra-endurance swimmer Catherine Breed completes historic 1,000-mile journey from Northern California to Mexico.",
+  "category": "sports",
+  "authorId": "globdesk",
+  "publishedAt": "2026-10-24T19:49:45+08:00",
+  "readMinutes": 3,
+  "tags": [
+    "ultra-endurance",
+    "swimming",
+    "california",
+    "world records",
+    "ocean"
+  ],
+  "coverPrompt": "A wide-angle shot of a lone female swimmer in a bright yellow wetsuit and goggles emerging from choppy blue Pacific Ocean waters onto a sandy beach. White foam surrounds her as she stands, looking toward the horizon under an overcast sky. No text or logos visible.",
+  "coverImage": "",
+  "featured": false,
+  "body": [
+    "Catherine Breed has made history by becoming the first person to swim the entire coastline of California, navigating from the state's northernmost tip down to the Mexican border. The 33-year-old ultra-endurance swimmer completed the grueling 1,000-mile (1,600km) marathon on Monday in San Diego, marking the end of an 111-day expedition that tested her physical limits and mental resilience against one of the Pacific Ocean's most volatile seasons.",
+    "Breed’s journey began nearly four months ago, undertaken during a year characterized by historic super El Niño weather conditions. Her support team had prepared for encounters with sharks, storms, and pollution, but the sheer volatility of the Pacific presented challenges beyond initial expectations. Despite dodging hurricanes and swimming through waves reaching up to 8 feet, Breed successfully concluded her voyage on a beach in San Diego, joining an elite group of athletes who have set records for long-distance swims along coastlines such as Ireland, Iceland, and New Zealand.",
+    "The swim required significant logistical coordination, with Breed living onboard the sailboat Catalyst, which accompanied her throughout the journey. She spent more than 15 weeks in the water, typically swimming for four to five hours each day. The preparation involved not only physical conditioning but also mental strategies to manage the energy expenditure required for such a monumental feat. Breed described the experience as an out-of-body moment, noting that she is still trying to grasp the magnitude of what she has accomplished.",
+    "Inspiration for the project came from previous successful long-distance swims by others, including Ross Edgley’s circumnavigation of Great Britain and earlier coastal swims by Sean Conway and Jasmine Harrison. Breed’s own interest was sparked after completing a swim from the Golden Gate Bridge to Half Moon Bay in 2022, which revealed the unique challenges and rewards of coastal navigation. This earlier experience convinced her that a full-state swim was both possible and worth pursuing.",
+    "During the swim, Breed employed specific mental techniques to maintain focus. She recalled advice from her college coach about conserving energy units per day, avoiding overthinking or negative thoughts that could drain her stamina. Instead, she focused on breaking the day into manageable segments, coaching herself to reach the next 30 minutes or two miles. In rough conditions, her attention shifted to technical adjustments to protect her shoulders from the impact of large waves.",
+    "The ocean environment provided both companionship and obstacles. While wearing earplugs to block out crew communication, Breed often heard dolphins before they were visible to her support team. She described the sensation of swimming in swells as varying depending on direction; swimming into a swell felt like climbing a hill, while riding behind it offered a surfing-like experience. However, high winds and large swells required constant effort to maintain proper body positioning, with some waves even knocking her off balance.",
+    "Training for this specific challenge differed from her previous marathon swims, such as the English Channel crossing in 2018. Because she wore a wetsuit in California, she did not need to focus heavily on cold adaptation. Instead, her training emphasized building muscle mass and optimizing body composition, spending more time in the gym than in the water compared to previous expeditions. Her background in sailing and surfing also contributed to her comfort with wave mechanics and life on a moving vessel.",
+    "Despite her experience, there were days when Breed did not want to enter the water. She acknowledged that many mornings brought reluctance, but her commitment to the goal and her team outweighed her emotions. She viewed the project as larger than herself, requiring discipline regardless of her daily mood. The physical toll was compounded by the instability of living on a boat, where simple tasks like making breakfast or putting on a wetsuit became difficult due to the rolling motion of the sea.",
+    "One of the most nerve-wracking moments occurred near the end of the journey in San Diego, close to Imperial Beach and the Tijuana River. Breed was aware of the ongoing sewage pollution crisis in the area, where raw sewage and toxic chemicals flow into the ocean. Although she stayed three miles offshore and took prophylactic antibiotics, the knowledge of the contamination added a layer of anxiety to the final leg of her historic swim."
+  ],
+  "keyPoints": [
+    "Catherine Breed becomes the first person to swim the entire California coastline.",
+    "The 1,000-mile journey took 111 days, ending in San Diego on Monday.",
+    "Breed navigated super El Niño weather, 8-foot waves, and marine wildlife.",
+    "She lived onboard the support boat Catalyst for the duration of the swim.",
+    "The expedition highlighted issues such as ocean pollution near the Mexican border."
+  ],
+  "sourceName": "The Guardian",
+  "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/24/catherine-breed-interview-swim-california-coastline",
+  "factCheck": {
+    "verdict": "pass",
+    "claims": [
+      {
+        "claim": "Catherine Breed is the first person to swim the entire coastline of California from the northernmost tip to Mexico.",
+        "status": "supported",
+        "evidence": "The reference states she set out to become 'the first person to swim the entire coastline of California' and the headline confirms she 'becomes the first person to swim from state’s northern-most tip to Mexico border'."
+      },
+      {
+        "claim": "Breed completed the 1,000-mile (1,600km) journey on Monday in San Diego after an 111-day expedition.",
+        "status": "supported",
+        "evidence": "The reference mentions she 'celebrated the end of her journey on a beach in San Diego on Monday' and discusses her '111-day swim'."
+      },
+      {
+        "claim": "The swim took place during a year characterized by historic super El Niño weather conditions.",
+        "status": "supported",
+        "evidence": "The reference notes they 'hadn’t anticipated completing the marathon swim during a year of historic super El Niño weather.'"
+      },
+      {
+        "claim": "Breed lived onboard the sailboat Catalyst, which accompanied her throughout the journey.",
+        "status": "supported",
+        "evidence": "The reference states she spoke about 'living onboard the Catalyst, the sailboat that accompanied her'."
+      },
+      {
+        "claim": "She spent more than 15 weeks in the water, swimming four to five hours each day.",
+        "status": "supported",
+        "evidence": "The reference mentions spending 'more than 15 weeks in the water' and asks what she thought about while 'swimming four to five hours a day'."
+      },
+      {
+        "claim": "Inspiration came from Ross Edgley’s circumnavigation of Great Britain and swims by Sean Conway and Jasmine Harrison.",
+        "status": "supported",
+        "evidence": "The reference lists 'Ross Edgley swam around Great Britain. Sean Conway and Jasmine Harrison swam the length of Britain' as examples showing the model was possible."
+      },
+      {
+        "claim": "Breed previously swam from the Golden Gate Bridge to Half Moon Bay in 2022.",
+        "status": "supported",
+        "evidence": "The reference states '[In 2022] I did a swim down the California coast from the Golden Gate Bridge to Half Moon Bay'."
+      },
+      {
+        "claim": "Breed used mental techniques advised by her college coach regarding energy units and focusing on short segments.",
+        "status": "supported",
+        "evidence": "The reference quotes her saying 'In college, my coach used to say you only get so many energy units per day' and that she coaches herself to 'get to the next 30 minutes... do the next 2 miles'."
+      },
+      {
+        "claim": "Breed wore earplugs and often heard dolphins before her crew could see them.",
+        "status": "supported",
+        "evidence": "The reference states 'I had earplugs on... one thing I could hear very clearly was dolphins... there were many occasions where I would hear the dolphins before the crew could see them.'"
+      },
+      {
+        "claim": "Swimming into a swell felt like climbing a hill, while riding behind it felt like surfing.",
+        "status": "supported",
+        "evidence": "The reference quotes: 'If I’m swimming into the swell, it feels like you’re swimming up a hill. But if it’s behind me, then it’s actually very fun because it feels like I’m surfing.'"
+      },
+      {
+        "claim": "Training differed from previous swims like the English Channel because she wore a wetsuit, allowing focus on muscle mass rather than cold adaptation.",
+        "status": "supported",
+        "evidence": "The reference explains 'In California, I’m wearing a wetsuit, so I didn’t have to focus so much on the cold training. I focused more on putting on muscle... more time in the gym.'"
+      },
+      {
+        "claim": "A nerve-wracking moment occurred near Imperial Beach and the Tijuana River due to sewage pollution.",
+        "status": "supported",
+        "evidence": "The reference identifies 'Swimming down in San Diego by the Imperial Beach and Tijuana River and knowing about the sewage pollution crisis' as 'probably the most nerve-wracking'."
+      }
+    ],
+    "notes": "All factual claims in the draft article are directly supported by the provided reference text from The Guardian. No contradictions or unsupported claims were found."
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "keys_path": "/home/xiaoqi/Documents/projects/xzengBin/smallTools/news_generate/ai_api_keys.json",
+
+  "text_models": [
+    {
+      "name": "qwen3.7-flash",
+      "api_key_name": "qwen",
+      "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+      "extra_body": { "enable_thinking": false, "enable_search": true, "search_options": { "forced_search": true, "search_strategy": "max" } },
+      "comment": "默认：带联网搜索，选题与成文都可交叉核实"
+    },
+    {
+      "name": "deepseek-chat",
+      "api_key_name": "deepseek",
+      "base_url": "https://api.deepseek.com",
+      "extra_body": { "enable_internet": true },
+      "comment": "fallback"
+    }
+  ],
+
+  "image": {
+    "backend": "dashscope_qwen_image",
+    "comment": "换生图模型只改这里的 backend（或对应 backends.<name>.model）",
+    "backends": {
+      "dashscope_qwen_image": {
+        "type": "dashscope_multimodal",
+        "model": "qwen-image-2.1-turbo",
+        "size": "1280*720",
+        "comment": "写实摄影风格强，同步调用"
+      },
+      "dashscope_wanx": {
+        "type": "dashscope_wanx",
+        "model": "wanx2.0-t2i-turbo",
+        "size": [1280, 720],
+        "comment": "通义万相，异步轮询调用"
+      }
+    },
+    "style_suffix": "Photorealistic documentary-style news photograph, natural lighting, realistic textures and materials, 35mm lens, editorial composition, sharp focus. No text, no captions, no watermarks, no logos, no brand names. Do not show recognizable real people's faces — prefer wide shots, medium shots from behind, silhouettes, or scenes without identifiable individuals."
+  },
+
+  "rss_sources": [
+    { "name": "BBC Science",      "url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml", "category_hint": "science" },
+    { "name": "BBC Technology",   "url": "http://feeds.bbci.co.uk/news/technology/rss.xml",              "category_hint": "technology" },
+    { "name": "BBC Arts",         "url": "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",  "category_hint": "culture" },
+    { "name": "Guardian Science", "url": "https://www.theguardian.com/science/rss",                      "category_hint": "science" },
+    { "name": "Guardian Tech",    "url": "https://www.theguardian.com/technology/rss",                   "category_hint": "technology" },
+    { "name": "Guardian Culture", "url": "https://www.theguardian.com/culture/rss",                      "category_hint": "culture" },
+    { "name": "Guardian Life",    "url": "https://www.theguardian.com/lifeandstyle/rss",                 "category_hint": "culture" },
+    { "name": "Guardian Travel",  "url": "https://www.theguardian.com/travel/rss",                       "category_hint": "travel" },
+    { "name": "Guardian Sport",   "url": "https://www.theguardian.com/uk/sport/rss",                     "category_hint": "sports" },
+    { "name": "Guardian Env",     "url": "https://www.theguardian.com/environment/rss",                  "category_hint": "planet" },
+    { "name": "NPR Science",      "url": "https://feeds.npr.org/1096/rss.xml",                           "category_hint": "science" },
+    { "name": "Phys.org",         "url": "https://phys.org/rss-feed/",                                    "category_hint": "science" },
+    { "name": "The Verge",        "url": "https://www.theverge.com/rss/index.xml",                        "category_hint": "technology" },
+    { "name": "Sky News Tech",    "url": "https://feeds.skynews.com/feeds/rss/technology.xml",            "category_hint": "technology" },
+    { "name": "BBC Business",     "url": "http://feeds.bbci.co.uk/news/business/rss.xml",                 "category_hint": "business" }
+  ],
+
+  "exclude_keywords": [
+    "war", "ukraine", "gaza", "israel", "lebanon", "iran", "russia", "putin",
+    "killed", "death toll", "missile", "airstrike", "shooting", "attack",
+    "election", "trump", "biden", "parliament", "sanctions", "lawsuit",
+    "earthquake", "hurricane", "tsunami", "wildfire", "flood", "drought", "famine"
+  ],
+
+  "topic_count": 14,
+  "max_items_per_source": 15,
+  "hours_window": 48,
+
+  "categories": ["business", "culture", "planet", "science", "sports", "technology", "travel", "weird", "world"],
+  "author_by_category": {
+    "business": "globdesk", "culture": "globdesk", "planet": "globdesk",
+    "science": "globdesk", "sports": "globdesk", "technology": "globdesk",
+    "travel": "globdesk", "weird": "globdesk", "world": "globdesk"
+  },
+
+  "site": {
+    "ssh_host": "los1",
+    "site_api": "https://glob.news/api",
+    "media_url_prefix": "https://glob.news/media/covers",
+    "media_dir": "/www/wwwroot/media/glob.news/covers",
+    "manage": "cd /www/wwwroot/backend_services/glob.news/service_login && source /www/wwwroot/backend_services/venv/bin/activate && python3 manage.py",
+    "staging_url": "https://staging.glob.news"
+  },
+
+  "assets_r2": {
+    "local_dir": "/home/xiaoqi/Documents/projects/websites/glob.news/globnews_local_contents/assets_r2",
+    "public_url": "https://assets.glob.news",
+    "sync_script": "/home/xiaoqi/Documents/projects/websites/glob.news/globnews_local_contents/assets_r2/scripts_tools/sync_to_r2.sh",
+    "comment": "新闻图片资产：本地 assets_r2/imgs/news/<slug>/ → 自动同步 R2 → 线上 https://assets.glob.news/imgs/news/<slug>/"
+  }
+}

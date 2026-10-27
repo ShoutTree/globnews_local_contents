@@ -1,0 +1,70 @@
+{
+  "generated_at": "2026-10-24T19:39:57",
+  "source_model": "qwen3.7-flash",
+  "total": 7,
+  "candidates": [
+    {
+      "title": "Blue Planet III Uses Cloudy Footage to Prove Authenticity Against AI",
+      "description": "Producers of the new nature series deliberately include less polished, cloudier shots to assure viewers that the wildlife footage is real and not AI-generated.",
+      "category": "culture",
+      "source_url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+      "source_name": "The Guardian",
+      "score": 8,
+      "approved": true
+    },
+    {
+      "title": "First Person to Swim Entire California Coastline Completes Historic Journey",
+      "description": "Ultra-endurance swimmer Catherine Breed becomes the first person to navigate the waves and wildlife swimming from Northern California to the Mexican border.",
+      "category": "sports",
+      "source_url": "https://www.theguardian.com/us-news/2026/oct/24/catherine-breed-interview-swim-california-coastline",
+      "source_name": "The Guardian",
+      "score": 8,
+      "approved": true
+    },
+    {
+      "title": "OpenAI Trains Frontier Models Offline to Prevent Hacking",
+      "description": "Following recent security incidents, OpenAI has begun training its most advanced AI models in an isolated environment without internet access to ensure safety.",
+      "category": "technology",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "source_name": "The Verge",
+      "score": 7,
+      "approved": true
+    },
+    {
+      "title": "Citizen Scientists Track Global Shoreline Changes with Camera Phones",
+      "description": "The CoastSnap project empowers volunteers worldwide to use smartphone cameras to monitor coastal erosion and environmental changes, providing crucial data to researchers.",
+      "category": "planet",
+      "source_url": "https://www.theguardian.com/news/2026/oct/23/how-citizen-science-is-tracking-changes-in-shorelines-around-the-world",
+      "source_name": "The Guardian",
+      "score": 7,
+      "approved": false
+    },
+    {
+      "title": "Gen Z Revives Y2K Cars: The Joy of Fixing Your Own Ride",
+      "description": "Young Americans are bypassing expensive new SUVs for affordable, no-frills Y2K vehicles they can buy with cash and repair themselves, defying modern car culture trends.",
+      "category": "culture",
+      "source_url": "https://www.theguardian.com/us-news/2026/oct/23/y2k-used-cars-gen-z",
+      "source_name": "The Guardian",
+      "score": 7,
+      "approved": false
+    },
+    {
+      "title": "Rare Native Trees Restored Using Advanced DNA Testing",
+      "description": "Conservation groups are using DNA analysis to help restore endangered black poplar populations, combating habitat loss and felling through precise breeding techniques.",
+      "category": "planet",
+      "source_url": "https://www.bbc.co.uk/news/articles/cw240ln41mq2o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Science",
+      "score": 7,
+      "approved": true
+    },
+    {
+      "title": "Australian Astronaut Offered Spot on 2028 ISS Mission",
+      "description": "The Australian government has offered astronaut Katherine Bennell-Pegg a spot on a 2028 mission to the International Space Station, potentially making her the first Australian in space under the national flag.",
+      "category": "science",
+      "source_url": "https://www.theguardian.com/australia-news/2026/oct/23/australian-astronaut-katherine-bennell-pegg-2028-space-mission",
+      "source_name": "The Guardian",
+      "score": 8,
+      "approved": true
+    }
+  ]
+}

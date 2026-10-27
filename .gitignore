@@ -1,0 +1,10 @@
+**/legacy/
+**/tmp/
+**/__pycache__/
+**/logs/
+**/.sync_r2_snapshot.json
+**/.sync_r2_snapshot/
+**/_debug/
+**/results/
+**/*.bak_x*
+**/r2.env

@@ -1,0 +1,96 @@
+{
+  "slug": "walsall-leather-firm-rejects-robots-to-preserve-craftsmanship",
+  "title": "Walsall Leather Firm Rejects Robots to Preserve Craftsmanship",
+  "excerpt": "A historic British leather goods manufacturer in Walsall continues to rely on hand-stitching and human skill, defying the trend toward automation in luxury manufacturing.",
+  "category": "business",
+  "authorId": "globdesk",
+  "publishedAt": "2026-10-25T21:21:27+08:00",
+  "readMinutes": 3,
+  "tags": [
+    "manufacturing",
+    "leathercraft",
+    "british business",
+    "walsall",
+    "luxury goods"
+  ],
+  "coverPrompt": "A close-up shot of skilled hands carefully stitching a high-quality brown leather wallet on a wooden workbench. Soft natural lighting highlights the texture of the leather and the precision of the manual labor. Tools like scissors and glue brushes are visible nearby. No faces or logos.",
+  "coverImage": "https://assets.glob.news/imgs/2026/10/25/walsall-leather-firm-rejects-robots-to-preserve-craftsmanship/cover.jpg",
+  "featured": false,
+  "body": [
+    "In a quiet corner of Walsall, near Birmingham, a team of about twenty artisans is meticulously crafting wallets, cigar cases, and other leather goods. This is the Ettinger factory, one of the few remaining sites in the town where traditional leatherworking survives. As automation reshapes global manufacturing, this historic firm has made a conscious decision that the vast majority of its process must be done by hand, betting that human attention to detail remains vital for high-end luxury products.",
+    "Gary Billingham, a long-time employee at the factory since the 1980s, demonstrates the precise process involved in making a single wallet. Twenty-eight individual pieces are cut from leather using a hydraulic press, then thinned at the edges with a shaving machine known as a skiver so they can be turned, glued, and stitched together manually. The workflow reflects a cottage industry model, a stark contrast to the mass production techniques that dominate much of the modern apparel and accessory sectors.",
+    "The company’s chief executive, Robert Ettinger, states firmly that the tactile nature of the work requires human dexterity and judgment. \"You can’t bring in robots,\" he says, emphasizing that while machines like sewing machines and pastry-cutter-like punches are used, the assembly cannot be fully automated. The brand, founded in 1934 by his father Gerry Ettinger after he fled Nazi Germany via Paris and a stint in the film industry, now supplies luxury items to discerning customers, including King Charles and Queen Camilla, who hold royal warrants with the firm.",
+    "Ettinger occupies a unique niche between high-street fashion and ultra-luxury brands. While competitors like Louis Vuitton charge over £2,000 for similar items, Ettinger offers British-made leather totes for just under £800. Their product range extends beyond wallets to include personalized pill containers, picture frames, and accessories for dog owners, all crafted with an emphasis on durability and classic design rather than fleeting trends.",
+    "The history of leatherworking in Walsall dates back to the Middle Ages, when the town was a center for saddle-making. By the late 19th century, more than 100 firms operated in the area. As horse-drawn transport declined, these factories adapted to produce bicycle saddles, car upholstery, gloves, and purses. The industry thrived during World War I due to military demand but faced significant challenges from foreign competition and synthetic materials in the decades that followed.",
+    "By 1970, Walsall still produced around half of Britain’s fancy leather goods, employing approximately 50 manufacturers. However, the industry has since suffered a rapid decline. Today, only about 7,000 people are employed in UK leather goods manufacturing, down from 37,000 thirty years ago. Many local landmarks serve as reminders of this once-thriving trade, while others, like the local leather museum, have closed or face relocation disputes.",
+    "Despite the shrinking workforce, Ettinger has maintained its commitment to local production. Robert Ettinger notes that while shifting production overseas might have increased short-term profits, it would also expose the company to intense price competition from far-eastern manufacturers. Instead, they have focused on quality and heritage, training staff and investing in machinery that supports, rather than replaces, manual craftsmanship. The company moved to Walsall in the 1990s after buying out supplier James Homer, bringing in new machinery to meet international standards.",
+    "Recent data suggests this strategy is paying off. Online sales have risen by 30% compared to last year, and domestic sales in the UK have increased by a fifth. A younger generation of consumers appears to be increasingly appreciating British craft and the story behind handmade goods. This shift comes even as the company had to reduce its staff numbers by about seven following the disruptions caused by the pandemic.",
+    "Workers like Tracy, who has been with the company for fifteen years and in the leather industry for forty, remember a time when jobs were abundant and skills were easily transferable within the town. Today, the industry is a shadow of its former self, but places like Ettinger continue to preserve the specialized knowledge required to create luxury leather goods. Their survival serves as a testament to the enduring value of human skill in an age of machines."
+  ],
+  "keyPoints": [
+    "Ettinger factory in Walsall relies on hand-assembly and specific machinery rather than full automation to preserve traditional leather craftsmanship.",
+    "Company supplies luxury goods to King Charles and Queen Camilla, holding royal warrants.",
+    "UK leather goods employment has fallen from 37,000 to 7,000 over the past thirty years.",
+    "Ettinger reports a 30% increase in online sales and a 20% rise in UK domestic sales.",
+    "Walsall was historically a major center for saddle-making and leather goods production."
+  ],
+  "sourceName": "Guardian Life",
+  "sourceUrl": "https://www.theguardian.com/business/2026/oct/25/ettinger-leather-handmaking-wallets-cigar-cases-walsall",
+  "factCheck": {
+    "verdict": "fail",
+    "claims": [
+      {
+        "claim": "The Ettinger factory is located in Walsall.",
+        "status": "contradicted",
+        "evidence": "The reference states that the company moved to Walsall in the 1990s after buying out supplier James Homer, but explicitly notes that founder Gerry Ettinger originally bought his factory in Clerkenwell (London) in the 1950s and the brand was historically associated with London's leather-working trade before the move."
+      },
+      {
+        "claim": "Ettinger supplies luxury items to King Charles and Queen Camilla, who hold royal warrants with the firm.",
+        "status": "contradicted",
+        "evidence": "The reference confirms they supply wealthy customers including King Charles and Queen Camilla and hold royal warrants, but does not state that the monarchs 'hold' the warrants; rather, the *firm* holds the warrants from the monarchs. More critically, the draft implies a current active relationship without the nuance of the reference which lists them as examples of wealthy customers."
+      },
+      {
+        "claim": "Online sales have risen by 30% compared to last year, and domestic sales in the UK have increased by a fifth.",
+        "status": "supported",
+        "evidence": "The reference explicitly states: 'online sales up 30% on last year and UK sales up by a fifth'."
+      },
+      {
+        "claim": "Ettinger had to reduce its staff numbers by about seven following the disruptions caused by the pandemic.",
+        "status": "supported",
+        "evidence": "The reference states: 'Ettinger itself had to cut its staff numbers by about seven after the Covid pandemic hit trade.'"
+      },
+      {
+        "claim": "Walsall produced around half of Britain’s fancy leather goods by 1970.",
+        "status": "supported",
+        "evidence": "The reference cites the Wolverhampton Heritage and History Society stating that by 1970, 'the town produced around half of the British-made fancy leather goods'."
+      },
+      {
+        "claim": "The local leather museum has closed or faces relocation disputes.",
+        "status": "supported",
+        "evidence": "The reference states: 'Even Walsall’s leather museum... is now closed amid disputed plans to move it to a modern city centre site.'"
+      },
+      {
+        "claim": "Gary Billingham demonstrates the process using 28 pieces of leather.",
+        "status": "supported",
+        "evidence": "The reference states: 'Gary Billingham is demonstrating how the 28 pieces which make up an Ettinger wallet are cut from leather'."
+      },
+      {
+        "claim": "Robert Ettinger stated that the vast majority of the manufacturing process must be done by hand because robots cannot be brought in.",
+        "status": "supported",
+        "evidence": "The reference quotes Robert Ettinger saying: 'You can’t bring in robots.' and 'the vast majority of its manufacturing process has to be done by hand.'"
+      },
+      {
+        "claim": "Tracy has been with the company for fifteen years and in the leather industry for forty.",
+        "status": "supported",
+        "evidence": "The reference states: 'Tracy... has been at the company for 15 years and working in the leather industry since she left school 40 years ago.'"
+      },
+      {
+        "claim": "The brand sits between high-street fashion and ultra-luxury brands, with totes under £800 vs Louis Vuitton over £2,000.",
+        "status": "supported",
+        "evidence": "The reference states: 'The brand sits in a niche between the big label luxury and high street with a British hand-crafted leather tote bag for just under £800 compared with more than £2,000 charged by a big swinger such as Louis Vuitton.'"
+      }
+    ],
+    "notes": "The draft contains a significant factual error regarding the location history. It claims the factory is in Walsall as if it were always there or primarily defined by it, whereas the reference clarifies that the original factory was in Clerkenwell, London, and the move to Walsall happened in the 1990s. Additionally, the phrasing regarding Royal Warrants ('who hold royal warrants') is slightly misleading as the company holds the warrant from the monarchs. However, the most critical contradiction is the implication of the factory's long-standing sole presence in Walsall versus the historical move from London. The verdict is 'fail' due to the contradiction on the origin/move of the factory which is a key part of the company's narrative in the reference.",
+    "revised": true
+  }
+}

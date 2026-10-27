@@ -1,0 +1,115 @@
+{
+  "slug": "orangutans-link-laughter-to-better-treats-study-finds",
+  "title": "Orangutans Link Laughter to Better Treats, Study Finds",
+  "excerpt": "New research reveals captive orangutans prefer food associated with peer laughter, suggesting emotions drive animal learning.",
+  "category": "science",
+  "authorId": "globdesk",
+  "publishedAt": "2026-10-23T20:13:11+08:00",
+  "readMinutes": 2,
+  "tags": [
+    "primatology",
+    "animal behavior",
+    "cognitive science",
+    "orangutans",
+    "emotion"
+  ],
+  "coverPrompt": "A close-up photograph of a calm orangutan sitting in a naturalistic zoo enclosure, gently holding a piece of fruit. Soft natural lighting filters through green foliage in the background, highlighting the ape's expressive face and textured orange fur. No text or logos visible.",
+  "coverImage": "https://glob.news/media/covers/orangutans-link-laughter-to-better-treats-study-finds.jpg",
+  "featured": false,
+  "body": [
+    "Captive orangutans are more likely to choose food rewards when they hear the sound of their peers laughing, according to new research that highlights the significant role emotions play in animal learning. The study, published in the journal Biology Letters, suggests that great apes base their food choices on whether others appear to be having a good time, valuing rewards more highly when associated with positive social cues.",
+    "Erica Cartmill, a professor of anthropology and cognitive science at Indiana University and the senior author of the work, explained that the research is part of a larger project exploring whether animals feel joy and how those emotions impact cognition. The team aimed to extend human research findings—which show that emotion and rational thought influence each other—to orangutans, testing if emotional states alter how these primates learn associations.",
+    "The researchers worked with six orangutans housed at two zoological institutions. Initially, the apes were trained to search through bowls to find hidden food treats. In subsequent trials, the orangutans were presented with two bowls: one containing a tasty morsel buried under a harmless substance like moss or sawdust, and another containing different material but no treat.",
+    "Crucially, just before presenting the bowls, the researchers played recordings. These included sounds of orangutans playing and laughing or environmental noises such as wind. The choice of soundtrack depended on which substance was used to cover the food that day, creating an association between the auditory cue and the physical material.",
+    "On the fifth day, both bowls contained a treat buried beneath one of the two substances. The orangutans were then asked to pick a bowl. Results from multiple trials revealed that, overall, the apes preferred to select the bowl containing the substance associated with the sound of laughter. Four of the six orangutans showed a clear preference for this option.",
+    "Cartmill suggested that the preference could be rooted in the sound of laughter putting the orangutans in a more positive emotional state while they learned to associate the substance with food. This indicates that it is not only the quantity or frequency of a reward that matters during learning, but also the internal state of the animal at the moment of association.",
+    "Dr Adriano Lameira, a primatologist and evolutionary psychologist at the University of Warwick who was not involved in the work, described the results as fascinating. He noted that effectively, hearing others clearly having a good time led the orangutans to place their food order by choosing what their peers seemed to enjoy.",
+    "The findings suggest that context, emotional states, and what an animal is feeling or thinking about can carry over into how they remember learned information. Cartmill added that these insights could have applications for humans, particularly in educational environments where mood might influence how students value information.",
+    "She noted that while students might learn at similar rates regardless of their mood, they may value information more if they learn it when happy. Conversely, anxiety during learning, such as when studying mathematics, could impact subject preference and future academic pursuits, underscoring the deep link between emotion and cognitive development."
+  ],
+  "keyPoints": [
+    "Captive orangutans prefer food associated with the sound of peer laughter.",
+    "Study published in Biology Letters links emotion to animal learning.",
+    "Four of six orangutans showed clear preference for laughter-associated treats.",
+    "Researchers suggest emotional state influences how rewards are valued.",
+    "Findings may offer insights into human educational psychology and memory."
+  ],
+  "sourceName": "Guardian Science",
+  "sourceUrl": "https://www.theguardian.com/science/2026/oct/21/orangutans-prefer-food-laughter-sounds-study",
+  "factCheck": {
+    "verdict": "pass",
+    "claims": [
+      {
+        "claim": "Captive orangutans prefer food associated with peer laughter, suggesting emotions drive animal learning.",
+        "status": "supported",
+        "evidence": "The reference states that orangutans 'valued the reward more highly' when hearing laughter and suggests this indicates emotions influence learning."
+      },
+      {
+        "claim": "The study was published in the journal Biology Letters.",
+        "status": "supported",
+        "evidence": "The reference explicitly mentions: 'Writing in the journal Biology Letters, Cartmill and her colleagues report...'"
+      },
+      {
+        "claim": "Erica Cartmill is a professor of anthropology and cognitive science at Indiana University and the senior author.",
+        "status": "supported",
+        "evidence": "The reference identifies her as 'Erica Cartmill, a professor of anthropology and cognitive science at Indiana University and senior author of the work'."
+      },
+      {
+        "claim": "The research team worked with six orangutans housed at two zoological institutions.",
+        "status": "supported",
+        "evidence": "The reference confirms they 'worked with six orangutans based at two zoological institutions.'"
+      },
+      {
+        "claim": "Orangutans were trained to search through bowls for hidden food treats before the main trials.",
+        "status": "supported",
+        "evidence": "The reference states: 'The researchers first trained the orangutans to search through bowls to find food treats.'"
+      },
+      {
+        "claim": "In trials, one bowl contained a treat under a harmless substance (moss/sawdust) while the other had different material but no treat.",
+        "status": "supported",
+        "evidence": "The reference describes the setup: 'One contained a tasty morsel buried under a harmless substance such as moss or sawdust, while the other contained a different type of material but no treat.'"
+      },
+      {
+        "claim": "Recordings of laughing/orangutan play or environmental noises were played just before presenting the bowls.",
+        "status": "supported",
+        "evidence": "The reference notes: 'Crucially, just before the researchers presented the bowls... they played a recording. This was either the sound of orangutans playing and laughing or environmental sounds such as wind'."
+      },
+      {
+        "claim": "On the fifth day, both bowls contained a treat, and orangutans chose between them.",
+        "status": "supported",
+        "evidence": "The reference states: 'On the fifth day the team presented the orangutans with two bowls, but this time each contained a treat... They then asked the orangutans to pick a bowl.'"
+      },
+      {
+        "claim": "Overall, apes preferred the bowl associated with laughter, with four of six showing clear preference.",
+        "status": "supported",
+        "evidence": "The reference reports: 'apes preferred to pick the bowl containing the substance associated with the sound of laughter, with four of the six orangutans showing a clear preference.'"
+      },
+      {
+        "claim": "Dr Adriano Lameira from the University of Warwick described the results as fascinating.",
+        "status": "supported",
+        "evidence": "The reference quotes Dr Adriano Lameira describing the results as 'fascinating'."
+      },
+      {
+        "claim": "Cartmill suggested the preference could be rooted in laughter putting orangutans in a positive emotional state during learning.",
+        "status": "supported",
+        "evidence": "The reference states: 'Cartmill said the preference could be rooted in the sound of laughter putting the orangutans in a more positive emotional state when they learned to associate the substance with food.'"
+      },
+      {
+        "claim": "Findings suggest context and emotional states carry over into how animals remember learned information.",
+        "status": "supported",
+        "evidence": "The reference quotes Cartmill saying: 'the context, the emotional states, what you’re feeling, what you’re thinking about – can also influence and can carry over in how you remember these things that you’ve learned.'"
+      },
+      {
+        "claim": "Cartmill noted applications for humans in education, where mood might influence how students value information.",
+        "status": "supported",
+        "evidence": "The reference states: 'Students might learn at similar rates if they are in a good mood or not, but our research suggests that they would value information more if they learn it when they are in a good mood'."
+      },
+      {
+        "claim": "Anxiety during learning (e.g., math) could impact subject preference and future academic pursuits.",
+        "status": "supported",
+        "evidence": "The reference adds: 'If a student is anxious when they are learning maths for example, it might impact whether they prefer maths versus other subjects when choosing what to pursue in the future'."
+      }
+    ],
+    "notes": "All factual claims in the draft article are fully supported by the reference text. There are no contradictions or unsupported claims."
+  }
+}
