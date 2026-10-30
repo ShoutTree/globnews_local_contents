@@ -1,0 +1,70 @@
+{
+  "generated_at": "2026-10-28T08:21:40",
+  "source_model": "qwen3.7-flash",
+  "total": 12,
+  "candidates": [
+    {
+      "title": "Rare Nanotyrannus skeleton sells for $47.3m at auction",
+      "description": "A rare dinosaur skeleton named 'Jodi' sold for nearly $50 million, reigniting debate over whether fossils should be in private hands or public museums.",
+      "category": "science",
+      "source_url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Science",
+      "score": 9,
+      "approved": false
+    },
+    {
+      "title": "Tiny zebra-striped bee spotted in Somerset saltmarshes",
+      "description": "A rare zebra-striped bee has been sighted in the UK for the first time, offering hope for the restoration of local saltmarsh ecosystems.",
+      "category": "planet",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3dxwjx7xpj0o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Science",
+      "score": 8,
+      "approved": false
+    },
+    {
+      "title": "Anthropic files for potentially record-breaking stock market listing",
+      "description": "The AI company behind Claude is preparing one of the largest debuts in US history, testing the financial viability of the AI boom.",
+      "category": "business",
+      "source_url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
+      "source_name": "Guardian Tech",
+      "score": 8,
+      "approved": false
+    },
+    {
+      "title": "Apple to replace iPhone Duos affected by screen problems",
+      "description": "Apple is addressing issues with its first foldable device after users reported cracks appearing on screens near the hinge shortly after launch.",
+      "category": "technology",
+      "source_url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Technology",
+      "score": 8,
+      "approved": false
+    },
+    {
+      "title": "Fans praise perfect ending as anime Bleach officially concludes",
+      "description": "One of the biggest anime series of all time ends its 22-year run, with fans celebrating a satisfying conclusion to the epic saga.",
+      "category": "culture",
+      "source_url": "https://www.bbc.co.uk/news/articles/c8p3g73ep520o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Arts",
+      "score": 7,
+      "approved": false
+    },
+    {
+      "title": "Jay-Z to headline 2027 Super Bowl halftime show",
+      "description": "After years of producing the event, the rapper will finally take the stage himself for the 2027 halftime performance at SoFi Stadium.",
+      "category": "culture",
+      "source_url": "https://www.theguardian.com/music/2026/oct/27/jay-z-to-headline-2027-super-bowl-half-time-show",
+      "source_name": "Guardian Culture",
+      "score": 8,
+      "approved": false
+    },
+    {
+      "title": "Milwaukee Brewers close in on World Series sweep after crushing Rays",
+      "description": "The Brewers routed the Tampa Bay Rays 10-1 in Game 3, moving just one win away from their first-ever World Series title.",
+      "category": "sports",
+      "source_url": "https://www.theguardian.com/sport/2026/oct/26/brewers-rays-world-series-game-3-baseball",
+      "source_name": "Guardian Sport",
+      "score": 8,
+      "approved": false
+    }
+  ]
+}

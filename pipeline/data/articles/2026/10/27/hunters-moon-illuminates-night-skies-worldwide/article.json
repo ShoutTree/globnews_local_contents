@@ -1,0 +1,69 @@
+{
+  "slug": "hunters-moon-illuminates-night-skies-worldwide",
+  "title": "Hunter's Moon Illuminates Night Skies Worldwide",
+  "excerpt": "Stunning images from around the globe showcase October's full Hunter's Moon, lighting up night skies and inspiring amateur astronomers and photographers alike.",
+  "category": "planet",
+  "authorId": "globdesk",
+  "publishedAt": "2026-10-27T09:23:10+08:00",
+  "readMinutes": 2,
+  "tags": [
+    "moon",
+    "astronomy",
+    "nature",
+    "photography",
+    "autumn"
+  ],
+  "coverPrompt": "A wide-angle shot of a bright, orange-tinted full moon rising above a silhouette of a dense forest at dusk. The sky transitions from deep blue to soft orange near the horizon. No people, text, or logos are visible. The scene evokes a calm, autumnal atmosphere.",
+  "coverImage": "https://assets.glob.news/imgs/2026/10/27/hunters-moon-illuminates-night-skies-worldwide/cover.jpg",
+  "featured": false,
+  "body": [
+    "The October full moon captivated observers across the Northern Hemisphere this weekend, casting a luminous glow over cities and countryside alike. Known traditionally as the Hunter's Moon, this celestial event has drawn the attention of amateur astronomers and photographers who sought to capture its brilliance against the darkening autumn sky.",
+    "Full moons throughout the year have historically been assigned names that reflect the seasonal activities and natural phenomena occurring at that time. The Hunter's Moon is one such designation, rooted in historical traditions where it served as a practical marker for communities preparing for the coming winter.",
+    "This particular full moon is situated in the sky for a notably long duration during twilight hours. This extended visibility is similar to that of the preceding Harvest Moon, providing hunters with additional natural light to track game in the early evening. The phenomenon occurs because the moon rises shortly after sunset for several consecutive days around the time of the full moon.",
+    "Photographers from various regions shared their interpretations of the lunar spectacle. From urban skylines to rural landscapes, the moon’s pale orange hue contrasted sharply with the crisp autumn air. These images highlight not only the beauty of the celestial body but also the cultural significance attached to its monthly appearance.",
+    "The tradition of naming moons dates back centuries, often tied to agricultural cycles. While modern life may not rely on hunting or harvesting in the same way, these names persist as a connection to our ancestral relationship with the natural world. They serve as reminders of the rhythms that once dictated daily survival.",
+    "As the astronomical autumn officially begins with the recent equinox, the Hunter's Moon marks a transition period. It signals the waning warmth of summer and the encroaching chill of winter, a time when nature prepares for dormancy and humans reflect on the passing year.",
+    "Skywatching enthusiasts were encouraged to look out for other notable events this autumn. The season offers a variety of celestial occurrences, providing ample opportunities for stargazing and education about the cosmos."
+  ],
+  "keyPoints": [
+    "The October full moon, known as the Hunter's Moon, lit up skies worldwide this weekend.",
+    "The name reflects historical Northern Hemisphere traditions related to hunting and harvest.",
+    "The moon stays visible longer near the horizon, providing extra evening light.",
+    "Photographers and astronomers shared stunning images capturing the lunar spectacle.",
+    "The event coincides with the start of astronomical autumn following the equinox."
+  ],
+  "sourceName": "BBC Science",
+  "sourceUrl": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss",
+  "factCheck": {
+    "verdict": "pass",
+    "claims": [
+      {
+        "claim": "The October full moon is known as the Hunter's Moon.",
+        "status": "supported",
+        "evidence": "The reference states: 'This particular full moon is known by several names, including the Hunter's Moon...'"
+      },
+      {
+        "claim": "The Hunter's Moon sits in the sky for a particularly long time, similar to the preceding Harvest Moon.",
+        "status": "supported",
+        "evidence": "The reference states: 'The Hunter's Moon is known to sit in the sky for a particularly long time - similar to the preceding Harvest Moon...'"
+      },
+      {
+        "claim": "The Hunter's Moon provides extra light for hunters.",
+        "status": "supported",
+        "evidence": "The reference states: '...giving hunters extra light in the skies.'"
+      },
+      {
+        "claim": "Full moons have traditionally been given names reflecting nature/seasonal activities.",
+        "status": "supported",
+        "evidence": "The reference states: 'Full Moons throughout the year have traditionally been given names that reflect what is going on in nature.'"
+      },
+      {
+        "claim": "The equinox marks the start of astronomical autumn.",
+        "status": "supported",
+        "evidence": "The reference includes the headline: 'Your pictures as equinox marks the start of astronomical autumn'."
+      }
+    ],
+    "notes": "All significant factual claims in the draft are directly supported by the provided BBC reference. The draft expands on the reference with general knowledge about photography and cultural significance, which does not contradict the source.",
+    "revised": true
+  }
+}

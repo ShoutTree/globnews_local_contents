@@ -461,6 +461,7 @@ def main():
             print("\nWARNING: staging publish had failures — fix and run publish.py manually")
         print(f"\nReview at https://staging.glob.news (BasicAuth + ?preview=<secret>)")
         print(f"Local previews:    open {built[0]}/preview.html")
+        print(f"python publish.py --date {datetime.now().strftime('%Y/%m/%d')} --target prod")
         print(f"Publish to prod:   python publish.py --article {built[0]}/article.json --target prod")
 
 

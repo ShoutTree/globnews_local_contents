@@ -1,0 +1,124 @@
+{
+  "slug": "why-snails-are-devouring-your-mail-in-wet-weather",
+  "title": "Why Snails Are Devouring Your Mail in Wet Weather",
+  "excerpt": "Ecologists explain why garden snails are attracted to letterboxes during humid conditions and offer safe ways to protect your post.",
+  "category": "weird",
+  "authorId": "globdesk",
+  "publishedAt": "2026-10-29T11:31:22+08:00",
+  "readMinutes": 2,
+  "tags": [
+    "snails",
+    "mail",
+    "australia",
+    "ecology",
+    "pest control"
+  ],
+  "coverPrompt": "A close-up, photorealistic shot of a standard metal letterbox with its flap slightly open. A large garden snail is visible inside, resting on a stack of white envelopes. The lighting is soft and natural, highlighting the texture of the snail's shell and the paper. No text or logos are visible on the envelopes or the box.",
+  "coverImage": "https://assets.glob.news/imgs/2026/10/29/why-snails-are-devouring-your-mail-in-wet-weather/cover.jpg",
+  "featured": false,
+  "body": [
+    "In the age of instant digital communication, the term 'snail mail' has become a nostalgic joke. However, for residents in parts of Australia and the United Kingdom, this phrase is becoming uncomfortably literal. During periods of wet weather, garden snails are increasingly seeking shelter inside letterboxes, where they encounter a surprising feast: paper letters. This phenomenon has led to closed postboxes and frustrated citizens whose correspondence is being consumed by gastropods.",
+    "The issue has gained significant attention after ecologist Simon Mustoe revealed that snails had eaten his personal letter from Sir David Attenborough. A BBC report subsequently highlighted the closure of a Royal Mail postbox in Northumberland due to snails munching on the mail. Meanwhile, online forums for Australian hardware chain Bunnings are filled with desperate claims from homeowners who swear snails have a real appetite for postal letters, with some reporting that a single snail can devour an entire letter in just two days.",
+    "Comedian Jimeoin recently joked about the situation after moving to Australia, finding a snail eating his mail and remarking, 'You stupid snail, you’re supposed to eat lettuce, not letters.' While humorous, the behavior is rooted in biology. Dr. John Stanisic, known as the Snail Whisperer, explains that letters are processed vegetable matter, making them a logical food source for these molluscs. He noted that snails have even been known to escape containers and eat documents left nearby.",
+    "Snails are ancient creatures, with a lineage dating back 350 million years. They play a critical role in ecosystems by consuming waste. Ecologist Simon Mustoe reasons that this function may have helped prevent the late Devonian mass extinction caused by a surge in plant evolution. Dr. Isabel Hyman from the Australian Museum emphasizes their importance in the food web, noting that while people often focus on mammals and birds, a flourishing ecosystem relies on small invertebrates like snails.",
+    "Despite their ecological value, the common garden snail, introduced to Australia from Europe 120 years ago, is considered a pest. Unlike native species, which struggle in disturbed habitats, these introduced snails thrive in urban environments. In humid conditions, they seek refuge in letterboxes primarily for moisture. Snails require water to produce mucus, which they use to create slime trails for movement and to keep their bodies hydrated. A dry letterbox offers a damp sanctuary, and the presence of paper provides an unexpected bonus meal.",
+    "Controlling these pests without harming local wildlife is a challenge. Dr. Hyman warns against using chemical poisons, which can kill natural predators such as blue tongue lizards, birds, and turtles. Mustoe notes that snail pellets have also been fatal to pets, including French bulldogs. Instead, experts recommend non-toxic barriers. Copper tape creates an uncomfortable electric charge when it contacts snail mucus, while sharp angles, sand, diatomaceous earth, or crushed eggshells make the area around letterboxes difficult to traverse.",
+    "For those willing to take more direct action, iron-based baits are considered safer for the environment than traditional chemicals, though they will still kill native snails if used near bushland. Ultimately, ecologists suggest that humans must adapt to the resilience of these ancient animals. The most effective strategy is pragmatic maintenance: regularly cleaning out letterboxes and checking mail frequently to ensure it does not sit long enough to be consumed."
+  ],
+  "keyPoints": [
+    "Garden snails seek shelter in letterboxes during wet weather, where they consume paper letters.",
+    "Letters are made of processed vegetable matter, making them a suitable food source for snails.",
+    "Introduced garden snails thrive in urban areas and require moisture to survive and move.",
+    "Chemical snail pellets can harm native wildlife and pets; copper tape and physical barriers are safer alternatives.",
+    "Regularly cleaning letterboxes is recommended to prevent mail from being devoured."
+  ],
+  "sourceName": "Guardian Env",
+  "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/oct/29/snail-ate-your-mail-why-gastropods-munch-paper-and-how-to-stop-them",
+  "factCheck": {
+    "verdict": "pass",
+    "claims": [
+      {
+        "claim": "Ecologist Simon Mustoe revealed that snails had eaten his personal letter from Sir David Attenborough.",
+        "status": "supported",
+        "evidence": "The reference states: 'We have it on good authority from the ecologist Simon Mustoe – who said snails ate his letter from Sir David Attenborough'."
+      },
+      {
+        "claim": "A BBC report highlighted the closure of a Royal Mail postbox in Northumberland due to snails munching on mail.",
+        "status": "supported",
+        "evidence": "The reference mentions: 'a BBC report announcing the closure of a Northumberland Royal Mail postbox because of snails “munching the mail”'."
+      },
+      {
+        "claim": "Online forums for Australian hardware chain Bunnings contain claims that snails can devour an entire letter in two days.",
+        "status": "supported",
+        "evidence": "The reference cites: 'desperate people on the forums of the Australian hardware chain Bunnings claiming snails have “a real appetite for postal letters” and can “eat a whole letter in two days”'."
+      },
+      {
+        "claim": "Comedian Jimeoin joked about finding a snail eating his mail in Australia, saying it was supposed to eat lettuce, not letters.",
+        "status": "supported",
+        "evidence": "The reference confirms: 'This didn’t escape the comedian Jimeoin, who joked after moving to Australia that he had found a snail eating his mail and said to it: “You stupid snail, you’re supposed to eat lettuce, not letters.”'."
+      },
+      {
+        "claim": "Dr. John Stanisic (the Snail Whisperer) explains that letters are processed vegetable matter, making them a logical food source.",
+        "status": "supported",
+        "evidence": "The reference states: 'Dr John Stanisic, AKA the Snail Whisperer, says letters are processed vegetable matter so it makes sense that snails have an appetite for them'."
+      },
+      {
+        "claim": "Dr. John Stanisic noted that snails escaped a Chinese takeaway container to eat his running sheet during a photoshoot preparation.",
+        "status": "supported",
+        "evidence": "The reference details: 'Stanisic set up some snails in a Chinese takeaway food container... Somehow, through the night, they got out and they’d eaten the front page of my running sheet.'."
+      },
+      {
+        "claim": "Snails have a lineage dating back 350 million years.",
+        "status": "supported",
+        "evidence": "The reference describes gastropods as ancient creatures that 'harks back 350m years'."
+      },
+      {
+        "claim": "Simon Mustoe reasons that snails consuming waste may have helped prevent the late Devonian mass extinction caused by plant evolution.",
+        "status": "supported",
+        "evidence": "The reference quotes Mustoe reasoning: 'they could have helped prevent the late Devonian mass extinction that was caused by a surge in plant evolution and not enough animals to eat them'."
+      },
+      {
+        "claim": "Dr. Isabel Hyman from the Australian Museum emphasizes the importance of snails in the food web and ecosystem health.",
+        "status": "supported",
+        "evidence": "The reference quotes Dr. Isabel Hyman: 'They’re very important in terms of their position in the food web... those things need a flourishing ecosystem, which needs all the little invertebrates.'."
+      },
+      {
+        "claim": "The common garden snail was introduced to Australia from Europe 120 years ago and is considered a pest.",
+        "status": "supported",
+        "evidence": "The reference states: 'It is the common garden variety, introduced from Europe 120 years ago, that appear to be the letter-munching culprits' and Hyman concedes 'common garden snails can be considered pests'."
+      },
+      {
+        "claim": "Snails seek refuge in letterboxes for moisture to produce mucus for movement and hydration.",
+        "status": "supported",
+        "evidence": "The reference explains: 'Moisture is a matter of survival for snails, Stanisic explains, which they need to create two types of mucus: one they exude... to create slime trails... The other is this slime network... to keep the snails active.'."
+      },
+      {
+        "claim": "Experts warn against chemical poisons as they kill natural predators like blue tongue lizards, birds, and turtles.",
+        "status": "supported",
+        "evidence": "The reference notes: 'Blue tongue lizard populations are collapsing in urban areas because of these poisons... Snail pellets can kill their natural predators, which in Australia include birds, mammals, insects, toads, turtles and wild turkeys.'."
+      },
+      {
+        "claim": "Mustoe notes that snail pellets have been fatal to pets, including French bulldogs.",
+        "status": "supported",
+        "evidence": "The reference states: 'Snail pellets can also kill pets – personally I know someone whose French bulldog found a packet, munched on them and died.'."
+      },
+      {
+        "claim": "Copper tape creates an uncomfortable electric charge when it contacts snail mucus.",
+        "status": "supported",
+        "evidence": "The reference states: 'copper tape provides an effective barrier by creating an uncomfortable electric charge when the snail’s mucus contacts the metal.'."
+      },
+      {
+        "claim": "Iron-based baits are considered safer for the environment than traditional chemicals but will still kill native snails.",
+        "status": "supported",
+        "evidence": "The reference mentions: 'Products containing iron are also safe options – but again will kill native snails.'."
+      },
+      {
+        "claim": "Ecologists suggest pragmatic maintenance, such as regularly cleaning letterboxes and checking mail frequently.",
+        "status": "supported",
+        "evidence": "The reference quotes Mustoe: 'Clean your letterbox out and check your mail regularly.'."
+      }
+    ],
+    "notes": "All factual claims in the draft article are directly supported by the reference text. No contradictions or unsupported claims were identified.",
+    "revised": true
+  }
+}

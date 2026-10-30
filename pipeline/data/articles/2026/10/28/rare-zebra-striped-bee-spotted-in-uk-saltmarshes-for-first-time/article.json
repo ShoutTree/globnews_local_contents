@@ -1,0 +1,90 @@
+{
+  "slug": "rare-zebra-striped-bee-spotted-in-uk-saltmarshes-for-first-time",
+  "title": "Rare Zebra-Striped Bee Spotted in UK Saltmarshes for First Time",
+  "excerpt": "A rare sea aster mining bee, typically found on England's east and south coasts, has been discovered in Somerset, signaling success in local habitat restoration.",
+  "category": "planet",
+  "authorId": "globdesk",
+  "publishedAt": "2026-10-28T09:45:29+08:00",
+  "readMinutes": 2,
+  "tags": [
+    "wildlife",
+    "conservation",
+    "uk",
+    "bees",
+    "saltmarsh"
+  ],
+  "coverPrompt": "A close-up, photorealistic shot of a small bee with black and white zebra-like stripes resting on a pink and yellow sea aster flower in a coastal saltmarsh. The background shows soft-focus green marsh grasses and wet sand under natural daylight, with no text or logos visible.",
+  "coverImage": "https://assets.glob.news/imgs/2026/10/28/rare-zebra-striped-bee-spotted-in-uk-saltmarshes-for-first-time/cover.jpg",
+  "featured": false,
+  "body": [
+    "A tiny bee with distinctive zebra-like stripes has been sighted in the saltmarshes of Somerset, marking the first time this rare species has been recorded in the West Country. The discovery of the sea aster mining bee offers a promising sign for the health and recovery of local coastal ecosystems, which have undergone significant transformation over the past decade.",
+    "Naturalist Nigel Phillips made the unexpected find at Steart Marshes, describing the sighting as a \"huge surprise.\" The bee, usually confined to the coastlines of southern and eastern England, had ventured westward, drawn by specific floral resources available in the restored wetland habitats of the region.",
+    "The presence of the sea aster mining bee is closely tied to the availability of its preferred food source: the sea aster flower. This pink and yellow bloom thrives in coastal marshes during the transition from summer to autumn. The reserve’s rich diversity of coastal wildflowers, including abundant sea aster, appears to have successfully attracted the bees to the Steart peninsula.",
+    "Steart Marshes was once farmland before being transformed into a coastal wetland through a major restoration project completed in 2014. By allowing seawater to flow back across the fields, the site was reintroduced to natural tidal processes, creating an ideal environment for salt-tolerant plants and the wildlife that depends on them.",
+    "Phillips noted seeing numerous bees and several colonial nesting areas in the dry sandy ground. He initially believed the species was restricted to salt marsh areas around the Thames estuary, making the Somerset sighting particularly notable for expanding the known range of the insect.",
+    "The Wildfowl and Wetlands Trust, which manages the nature reserve, highlighted that the discovery underscores how rare species can thrive when coastal habitats are actively restored. Of the 290 invertebrate species found in UK saltmarshes, 148 are unique to these environments, emphasizing their ecological importance.",
+    "Site manager Bay Alys Laver expressed her delight at the news, noting that while saltmarshes are often associated with large flocks of wading birds, geese, and ducks, they support a vast amount of unseen life. She credited the successful maintenance of the reserve, working in concert with local graziers, for creating conditions suitable for such rare visitors.",
+    "This finding highlights the biodiversity supported by restored coastal habitats. While separate reports indicate that muddy saltmarshes play a vital role in tackling climate change by sequestering carbon, this specific discovery primarily demonstrates the success of habitat restoration in supporting rare invertebrate species."
+  ],
+  "keyPoints": [
+    "Sea aster mining bee spotted in Somerset for the first time.",
+    "Species typically found on England's south and east coasts.",
+    "Discovery linked to successful saltmarsh restoration at Steart Marshes.",
+    "Bee relies on sea aster flowers blooming in late summer and autumn.",
+    "148 of 290 invertebrate species in UK saltmarshes are unique to them."
+  ],
+  "sourceName": "BBC Science",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/c3dxwjx7xpj0o?at_medium=RSS&at_campaign=rss",
+  "factCheck": {
+    "verdict": "pass",
+    "claims": [
+      {
+        "claim": "A rare sea aster mining bee was discovered in Somerset, specifically at Steart Marshes.",
+        "status": "supported",
+        "evidence": "The reference states the bee was spotted at Steart Marshes in Somerset by naturalist Nigel Phillips."
+      },
+      {
+        "claim": "This is the first time this species has been recorded in the West Country.",
+        "status": "supported",
+        "evidence": "The draft claims it is the 'first time... recorded in the West Country'; the reference supports this by quoting Phillips saying he thought they were only found around the Thames estuary and Laver expressing happiness about finding their 'first sea aster mining bees'."
+      },
+      {
+        "claim": "Naturalist Nigel Phillips made the discovery and described it as a 'huge surprise'.",
+        "status": "supported",
+        "evidence": "The reference explicitly quotes Phillips: 'who said the find \"was a huge surprise\"'."
+      },
+      {
+        "claim": "The bee relies on the sea aster flower, which blooms from summer to autumn.",
+        "status": "supported",
+        "evidence": "The reference states the bee 'relies on the sea aster, a pink and yellow flower that blooms on coastal marshes, as summer moves into autumn'."
+      },
+      {
+        "claim": "Steart Marshes restoration project was completed in 2014, transforming farmland into wetland.",
+        "status": "supported",
+        "evidence": "The reference confirms: 'The restoration project at Steart Marshes was completed in 2014, transforming former farmland into a coastal wetland'."
+      },
+      {
+        "claim": "Phillips noted seeing numerous bees and colonial nesting areas in dry sandy ground.",
+        "status": "supported",
+        "evidence": "The reference quotes Phillips: '\"There were lots of them and several colonial nest areas in the dry sandy ground,\"'."
+      },
+      {
+        "claim": "Of 290 invertebrate species in UK saltmarshes, 148 are unique to these environments.",
+        "status": "supported",
+        "evidence": "The reference states: 'Of the 290 invertebrate species found in these habitats across the UK, 148 can only be found in saltmarshes'."
+      },
+      {
+        "claim": "Site manager Bay Alys Laver credited staff and local graziers for the conditions.",
+        "status": "supported",
+        "evidence": "The reference quotes Laver crediting 'the brilliant work our staff do in maintaining the reserve in concert with local graziers'."
+      },
+      {
+        "claim": "The bee is typically found on England's east and south coasts (Thames estuary).",
+        "status": "supported",
+        "evidence": "The reference notes the bee is 'usually found along England's south and east coasts' and Phillips thought they were 'only found in salt marsh areas around the Thames estuary'."
+      }
+    ],
+    "notes": "All factual claims in the draft article are directly supported by the provided BBC reference. No contradictions or unsupported claims were found.",
+    "revised": true
+  }
+}

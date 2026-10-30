@@ -1,0 +1,70 @@
+{
+  "generated_at": "2026-10-29T10:39:34",
+  "source_model": "qwen3.7-flash",
+  "total": 11,
+  "candidates": [
+    {
+      "title": "Venice lagoon once dry land revealed by new research",
+      "description": "Scientists have uncovered ancient hills and swamps beneath Venice, showing how rising seas over 10,000 years transformed inland terrain into the floating city we know today.",
+      "category": "science",
+      "source_url": "https://www.theguardian.com/science/2026/oct/28/rising-seas-transformed-dry-land-venice-lagoon",
+      "source_name": "Guardian Science",
+      "score": 8,
+      "approved": false
+    },
+    {
+      "title": "Google launches Gemini 4 Carbon with cybersecurity boost",
+      "description": "Google unveils its latest AI model, claiming significant leaps in coding, agentic tasks, and security, positioning it ahead of competitors in key benchmarks.",
+      "category": "technology",
+      "source_url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "source_name": "The Verge",
+      "score": 7,
+      "approved": false
+    },
+    {
+      "title": "Cycling through the wild heart of the Netherlands",
+      "description": "Discover the magical Veluwe region, where vast heathlands, pine forests, and Van Gogh treasures await cyclists seeking an autumnal escape.",
+      "category": "travel",
+      "source_url": "https://www.theguardian.com/travel/2026/oct/28/cycling-nature-holiday-veluwe-netherlands",
+      "source_name": "Guardian Life",
+      "score": 7,
+      "approved": false
+    },
+    {
+      "title": "How Northern Ireland inspired C.S. Lewis’s Narnia",
+      "description": "Ahead of the new Netflix series, explore the real-life landscapes of Belfast and the Mournes that fueled the imagination behind The Chronicles of Narnia.",
+      "category": "culture",
+      "source_url": "https://www.theguardian.com/travel/2026/oct/27/cs-lewis-narnia-inspiration-northern-ireland-belfast",
+      "source_name": "Guardian Life",
+      "score": 8,
+      "approved": false
+    },
+    {
+      "title": "Arsenal’s Russo makes history with hat-trick against Benfica",
+      "description": "Alessia Russo scored her third consecutive Champions League hat-trick, becoming the highest English goalscorer in Women’s Champions League history.",
+      "category": "sports",
+      "source_url": "https://www.theguardian.com/football/2026/oct/28/arsenal-v-benfica-womens-champions-league-match-report",
+      "source_name": "Guardian Sport",
+      "score": 7,
+      "approved": false
+    },
+    {
+      "title": "Snails eating your mail? Why gastropods munch paper",
+      "description": "Ecologists explain why garden snails are attracted to letterboxes during wet weather and offer tips on how to stop them from devouring your post.",
+      "category": "weird",
+      "source_url": "https://www.theguardian.com/lifeandstyle/2026/oct/29/snail-ate-your-mail-why-gastropods-munch-paper-and-how-to-stop-them",
+      "source_name": "Guardian Env",
+      "score": 8,
+      "approved": false
+    },
+    {
+      "title": "Japan’s haunted homes attract bargain hunters",
+      "description": "Properties where tragic deaths occurred are selling at steep discounts, creating a unique market for those willing to live with a 'ghost'.",
+      "category": "culture",
+      "source_url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Business",
+      "score": 7,
+      "approved": false
+    }
+  ]
+}

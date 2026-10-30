@@ -227,7 +227,7 @@ def main():
     for i, c in enumerate(candidates, 1):
         print(f"  {i:2d}. [{c['category']:10s}] (score {c.get('score','?')}) {c['title'][:80]}")
         print(f"      source: {c.get('source_name')} -> {c.get('source_url','')[:80]}")
-    print(f"\nNext: python approve.py {out}")
+    print(f"\nNext: python build_articles.py {out}")
 
 
 if __name__ == '__main__':

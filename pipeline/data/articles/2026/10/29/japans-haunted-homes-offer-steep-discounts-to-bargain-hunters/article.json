@@ -1,0 +1,81 @@
+{
+  "slug": "japans-haunted-homes-offer-steep-discounts-to-bargain-hunters",
+  "title": "Japan's 'Haunted' Homes Offer Steep Discounts to Bargain Hunters",
+  "excerpt": "In Japan, properties where tragic deaths occurred are selling at steep discounts, creating a unique market for those willing to live with a 'ghost'.",
+  "category": "culture",
+  "authorId": "globdesk",
+  "publishedAt": "2026-10-29T11:32:09+08:00",
+  "readMinutes": 2,
+  "tags": [
+    "japan",
+    "real-estate",
+    "culture",
+    "superstition",
+    "housing-market"
+  ],
+  "coverPrompt": "A dimly lit, modern Japanese apartment interior with sliding shoji screens. A faint, translucent silhouette of a figure stands near a window, blending into the shadows. Soft, eerie blue moonlight filters through the paper screens, creating a mysterious atmosphere without showing any identifiable faces.",
+  "coverImage": "https://assets.glob.news/imgs/2026/10/29/japans-haunted-homes-offer-steep-discounts-to-bargain-hunters/cover.jpg",
+  "featured": false,
+  "body": [
+    "In Tokyo’s fashionable Setagaya ward, Ryua, an aidoru or young entertainer, walks into her rental apartment and immediately senses a presence. A man stands in the room, glaring at her. The estate agent sees nothing, but Ryua is certain she is being watched by a yuurei, a lingering spirit of someone who died violently or tragically. Rather than fleeing, she decided to move in, viewing the spectral resident as a potential friend.",
+    "Four years later, Ryua remains in the same 25-square-meter bedsit. She reports daily paranormal activity, including endless footsteps and voices. Her experience highlights a unique aspect of Japanese real estate: the market for jiko bukken, or 'stigmatized' properties. These are homes where suicide, murder, fire, or lonely deaths have occurred, offering significant financial incentives to those unbothered by superstition.",
+    "The practice of renting or buying these properties is regulated by government guidelines issued in 2021. Under these rules, Japanese estate agents must disclose if a death occurred on the premises due to suicide, murder, fire, or if the body was not discovered for an extended period. For rentals, this disclosure must be maintained for three years; for sales, it is indefinite. This transparency creates a niche market where non-superstitious buyers can secure substantial discounts, sometimes up to 30% off standard rents or half the asking price for homes.",
+    "Ryua pays 45,000 yen ($285) monthly for her apartment, a significant reduction from the typical 62,000 yen rate for similar units in the area. The discount was applied because a previous tenant died by suicide in the unit. While such events might deter tenants globally, in Japan, the stigma is particularly potent due to cultural beliefs surrounding yuurei, which are thought to remain if the deceased died alone or in distress.",
+    "Erik Oskamp, a Tokyo-based estate agent, notes that Japanese renters are especially sensitive to these stigmas. Even apartments adjacent to cemeteries can be difficult to lease if the graves are visible from the kitchen. The worst-case scenario for landlords is often a suicide, which can lead to immediate vacancies as tenants refuse to stay. However, this aversion creates opportunities for pragmatic investors and residents.",
+    "For Diane Tincher, an American tour guide living in rural Kagoshima, the stigma translated into a major bargain. She purchased a large three-bedroom house for 20 million yen, roughly half the local average of 45 million yen. The property was stigmatized because an elderly woman had died alone there. Tincher, who does not believe in ghosts, views the deceased woman as a benefactor who enabled her affordable housing.",
+    "Finding these properties is facilitated by platforms like Oshimaland, launched in 2005. The site crowdsources data on jiko bukken across Japan and internationally, detailing the nature of the incidents. As housing costs surge nationwide, the appeal of these discounted homes is growing. A 2025 survey indicated that more than half of Japanese people would consider renting a stigmatized property if the price were low enough.",
+    "Culturally, the acceptance of these spirits varies. Many Japanese take yuurei seriously year-round, not just during Halloween celebrations. The belief is that these troubled spirits deserve respect rather than fear. For residents like Ryua, coexisting with a ghost is a matter of mutual tolerance, acknowledging that the spirit was once a human being deserving of dignity.",
+    "This market segment reflects broader shifts in Japan’s housing landscape. With rising living costs and limited inventory, economic practicality is increasingly outweighing traditional taboos. For those willing to look past the supernatural, Japan’s haunted home market offers a rare combination of affordability and cultural immersion."
+  ],
+  "keyPoints": [
+    "Government guidelines issued in 2021 require disclosure of deaths in properties for rentals (3 years) and sales (indefinitely).",
+    "Properties with tragic histories, known as jiko bukken, offer steep discounts to buyers.",
+    "Cultural beliefs about yuurei make these homes less desirable to many, driving prices down.",
+    "Websites like Oshimaland help buyers identify stigmatized properties across Japan.",
+    "Rising housing costs are increasing interest in discounted homes among pragmatic residents."
+  ],
+  "sourceName": "BBC Business",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+  "factCheck": {
+    "verdict": "pass",
+    "claims": [
+      {
+        "claim": "Ryua is an aidoru living in a 25-square-meter bedsit in Setagaya ward, Tokyo.",
+        "status": "supported",
+        "evidence": "The reference states Ryua works as an aidoru and lives in a 'tiny, 25 sq m bedsit in the fashionable ward of Setagaya'."
+      },
+      {
+        "claim": "Ryua pays 45,000 yen ($285) monthly, a discount from the typical 62,000 yen rate.",
+        "status": "supported",
+        "evidence": "The reference confirms she pays '45,000 yen ($285)... instead of what should have been 62,000 yen'."
+      },
+      {
+        "claim": "Government guidelines issued in 2021 require disclosure of suicide, murder, fire, or lonely deaths for rentals (3 years) and sales (indefinite).",
+        "status": "supported",
+        "evidence": "The reference explicitly lists these conditions and durations under the 2021 government guidelines."
+      },
+      {
+        "claim": "Erik Oskamp is a Tokyo-based estate agent who notes Japanese renters are sensitive to stigmas, including those near cemeteries.",
+        "status": "supported",
+        "evidence": "The reference quotes Erik Oskamp explaining that even apartments next to cemeteries are difficult to rent if tombs are visible from the kitchen."
+      },
+      {
+        "claim": "Diane Tincher, an American tour guide in Kagoshima, bought a house for 20 million yen, half the local average of 45 million yen.",
+        "status": "supported",
+        "evidence": "The reference states Tincher paid '20m yen' where similar properties sell for 'up to 45m yen' due to a lonely death."
+      },
+      {
+        "claim": "Oshimaland was launched in 2005 and crowdsources data on stigmatized properties.",
+        "status": "supported",
+        "evidence": "The reference mentions Oshimaland was 'launched in 2005' and is 'crowdsourced'."
+      },
+      {
+        "claim": "A 2025 survey indicated more than half of Japanese people would consider renting a stigmatized property if the price were low enough.",
+        "status": "supported",
+        "evidence": "The reference cites 'one 2025 survey found that more than half of Japanese people would now rent a jiko bukken if it was cheap'."
+      }
+    ],
+    "notes": "All significant factual claims in the draft article are directly supported by the reference text. No contradictions or unsupported claims were found.",
+    "revised": true
+  }
+}

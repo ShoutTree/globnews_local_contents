@@ -1,0 +1,91 @@
+{
+  "slug": "electric-ferries-take-flight-the-future-of-us-waterways",
+  "title": "Electric Ferries Take Flight: The Future of US Waterways",
+  "excerpt": "Hydrofoil technology and battery power are transforming American ferry services, offering a quieter, cleaner alternative to diesel engines.",
+  "category": "technology",
+  "authorId": "globdesk",
+  "publishedAt": "2026-10-30T08:49:56+08:00",
+  "readMinutes": 2,
+  "tags": [
+    "electric ferries",
+    "hydrofoil technology",
+    "green transportation",
+    "us news",
+    "san francisco",
+    "clean energy"
+  ],
+  "coverPrompt": "A modern white electric hydrofoil ferry gliding smoothly above calm blue water near a city skyline, with sunlight reflecting off the water surface and the boat's hull lifted slightly above the waves, no people visible, photorealistic style.",
+  "coverImage": "https://assets.glob.news/imgs/2026/10/30/electric-ferries-take-flight-the-future-of-us-waterways/cover.jpg",
+  "featured": false,
+  "body": [
+    "A sleek white vessel glides through New York Harbor, its hull lifting about a foot and a half above the water as it accelerates past the Statue of Liberty. Passengers on nearby sightseeing boats watch in curiosity as this electric hydrofoil transforms the choppy ride into a smooth, almost airborne glide. This is not a futuristic concept but a present reality, as companies like Vessev demonstrate how advanced marine engineering can tackle one of transportation’s biggest challenges: making water travel efficient enough to go fully electric.",
+    "The secret lies in the hydrofoil design. Traditional boats fight against significant water resistance, which requires substantial energy to overcome. By using underwater wings to lift the hull out of the water at speed, these vessels dramatically reduce drag. Eric Laakmann, chief executive and co-founder of Vessev, explains that this reduction in drag is what makes electrification viable. Without the need to push heavy weight through dense water, the boat can move more efficiently, allowing for smaller, lighter battery packs that lower both cost and environmental impact.",
+    "Electrifying maritime transport is complex. Unlike cars that charge overnight at home, ferries must adhere to strict timetables, completing repeated trips with limited downtime for recharging. Operators must carefully balance vessel range, passenger capacity, and shore-side charging infrastructure. While efficiency gains are significant, the transition also requires logistical precision to ensure service remains reliable while switching from fossil fuels to electricity.",
+    "Vessev, which currently operates in New Zealand and is expanding to Australia, plans to launch its first US service at Lake Tahoe. Laakmann envisions a future where electric ferries become as routine as buses or taxis, connecting communities without adding vehicles to congested roads. When powered by clean electricity, these vessels offer a tangible way to cut greenhouse gas emissions and improve air quality around busy waterfronts.",
+    "This innovation is part of a broader global shift. In Stockholm, commuters already ride electric hydrofoils built by the Swedish company Candela, which claims an 80% reduction in energy use compared to conventional vessels. Norway has ordered 20 such boats for coastal service, signaling strong international confidence in the technology’s potential to revolutionize public transit.",
+    "In San Francisco, the largest ferry operator is preparing for a major overhaul. The agency, which carries 3.5 million passengers annually, currently relies entirely on diesel-powered vessels. Over the next two years, it will introduce four battery-powered ferries as part of a half-billion-dollar investment in electric infrastructure. Although these new boats will not be hydrofoils, they will make San Francisco the first ferry operator in the United States to operate high-speed, all-electric ferries.",
+    "Financial considerations drive much of this transition. While the upfront costs for electric vessels and charging stations are higher, operators anticipate long-term savings through reduced fuel and maintenance expenses. With diesel prices rising and battery technology improving, the economic case for electrification is becoming stronger, even if every route is not yet suited for full electric conversion.",
+    "The shift promises benefits beyond just cleaner air. More efficient designs open up routes that were previously impractical, potentially lowering operating costs and expanding connectivity. As climate goals increasingly align with economic incentives, the adoption of electric ferries may accelerate, transforming how Americans commute across the nation’s extensive waterways."
+  ],
+  "keyPoints": [
+    "Hydrofoil technology lifts boat hulls out of water, reducing drag by up to 66% and enabling efficient electric propulsion.",
+    "Vessev plans to launch its first US service at Lake Tahoe, following operations in New Zealand and Australia.",
+    "San Francisco's largest ferry operator is investing $500 million to introduce four battery-powered ferries over the next two years.",
+    "Swedish company Candela already operates electric hydrofoils in Stockholm, claiming 80% energy savings.",
+    "Norway has ordered 20 electric hydrofoil boats for coastal service, highlighting global adoption trends."
+  ],
+  "sourceName": "Guardian Tech",
+  "sourceUrl": "https://www.theguardian.com/environment/2026/oct/29/us-electric-ferries",
+  "factCheck": {
+    "verdict": "fail",
+    "claims": [
+      {
+        "claim": "Vessev plans to launch its first US service at Lake Tahoe.",
+        "status": "supported",
+        "evidence": "The reference states: 'In the US, its first service is planned for Lake Tahoe.'"
+      },
+      {
+        "claim": "Eric Laakmann is the chief executive and co-founder of Vessev.",
+        "status": "supported",
+        "evidence": "The reference quotes Eric Laakmann as 'the chief executive and co-founder of Vessev'."
+      },
+      {
+        "claim": "Vessev's hydrofoil design cuts drag by about 66%.",
+        "status": "unsupported",
+        "evidence": "The draft claims a specific 66% reduction, but the reference only states that the design 'substantially reduce[s] the drag' without providing a numerical percentage."
+      },
+      {
+        "claim": "San Francisco will become the first ferry operator in the United States to operate high-speed, all-electric ferries.",
+        "status": "contradicted",
+        "evidence": "The reference explicitly states that San Francisco will be the first to run 'high-speed, all-electric ferries,' but clarifies that these new vessels are NOT hydrofoils ('San Francisco won’t initially be using hydrofoil boats'), whereas the draft implies this status applies to the electric ferry sector generally or conflates it with the hydrofoil technology discussed earlier."
+      },
+      {
+        "claim": "Candela claims an 80% reduction in energy use compared to conventional vessels.",
+        "status": "supported",
+        "evidence": "The reference states: 'The company says its design can reduce energy use by as much as 80% compared with conventional vessels of a similar type.'"
+      },
+      {
+        "claim": "Norway has ordered 20 Candela electric hydrofoil boats for coastal service.",
+        "status": "supported",
+        "evidence": "The reference states: 'Norway has ordered 20 of its electric hydrofoil boats for coastal service.'"
+      },
+      {
+        "claim": "San Francisco's largest ferry operator carries 3.5 million passengers annually.",
+        "status": "supported",
+        "evidence": "The reference states: 'the city’s largest ferry operator carries about 3.5 million passengers a year'."
+      },
+      {
+        "claim": "San Francisco's fleet overhaul includes a half-billion-dollar investment in electric infrastructure.",
+        "status": "supported",
+        "evidence": "The reference mentions 'an electric overhaul worth about half a billion dollars that also includes charging infrastructure at docks.'"
+      },
+      {
+        "claim": "San Francisco will introduce four battery-powered ferries over the next two years.",
+        "status": "supported",
+        "evidence": "The reference states the agency prepares to 'add four battery-powered ferries over the next two years.'"
+      }
+    ],
+    "notes": "The draft contains one unsupported claim (specific 66% drag reduction figure not in source) and one contradicted/misleading claim regarding San Francisco's distinction as the first all-electric operator. The reference clarifies that SF's vessels are not hydrofoils, while the draft structure strongly implies the 'first all-electric' milestone is linked to the hydrofoil narrative or fails to distinguish that SF's achievement is non-hydrofoil electric, which is a significant technical distinction in the context of the article.",
+    "revised": true
+  }
+}

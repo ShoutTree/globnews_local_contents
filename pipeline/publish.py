@@ -21,6 +21,7 @@
 """
 
 import argparse
+import datetime
 import glob
 import json
 import os
@@ -31,6 +32,41 @@ import urllib.request
 from common import ARTICLES_DIR, load_config
 
 REQUIRED = ['slug', 'title', 'excerpt', 'category', 'authorId', 'body', 'sourceUrl']
+
+EXCLUDE_DIR = os.path.join(os.path.dirname(ARTICLES_DIR), 'exclude')
+
+
+def _norm_url(u) -> str:
+    return (u or '').strip().rstrip('/')
+
+
+def excluded_urls_for(art_path: str) -> set:
+    """读取与文章相关日期的 exclude 文件，返回其中记录的 source_url 集合。
+
+    exclude 文件（data/exclude/exclude_YYYYMMDD.json）记录的是候选批次的
+    title + source_url；发布文章的 title 会被改写，因此按 sourceUrl 匹配。
+    依次尝试：文章目录日期、今天。
+    """
+    urls: set = set()
+    days = []
+    rel = os.path.relpath(os.path.dirname(os.path.abspath(art_path)), ARTICLES_DIR)
+    parts = rel.replace(os.sep, '/').split('/')
+    if len(parts) >= 3 and all(p.isdigit() for p in parts[:3]):
+        days.append(f"{parts[0].zfill(2)}{parts[1].zfill(2)}{parts[2].zfill(2)}")
+    days.append(datetime.date.today().strftime('%Y%m%d'))
+    for d in days:
+        fp = os.path.join(EXCLUDE_DIR, f'exclude_{d}.json')
+        if not os.path.exists(fp):
+            continue
+        try:
+            with open(fp, encoding='utf-8') as f:
+                items = json.load(f)
+            for it in items:
+                if isinstance(it, dict) and it.get('source_url'):
+                    urls.add(_norm_url(it['source_url']))
+        except Exception as e:
+            print(f"  [exclude] failed to read {fp}: {e}")
+    return urls
 
 
 def run(cmd, **kw):
@@ -192,7 +228,8 @@ def main():
         try:
             with open(fp, encoding='utf-8') as f:
                 a = json.load(f)
-            names.append(f"{a.get('slug', '?')[:60]}  <-  {os.path.dirname(fp)}")
+            ex_mark = '  [EXCLUDED]' if _norm_url(a.get('sourceUrl')) in excluded_urls_for(fp) else ''
+            names.append(f"{a.get('slug', '?')[:60]}{ex_mark}  <-  {os.path.dirname(fp)}")
         except Exception as e:
             names.append(f"(unreadable: {fp}: {e})")
 
@@ -227,6 +264,11 @@ def main():
             with open(fp, encoding='utf-8') as f:
                 _art = json.load(f)
             slug = _art.get('slug', '?')
+            if _norm_url(_art.get('sourceUrl')) in excluded_urls_for(fp):
+                print(f"== SKIP (excluded by user) {slug}")
+                print(f"   sourceUrl in exclude list: {_art.get('sourceUrl', '')}")
+                skipped += 1
+                continue
             remote = get_remote_status(slug, site)
             if args.target == 'staging' and remote == 'staging':
                 print(f"== SKIP (already in staging) {slug}")

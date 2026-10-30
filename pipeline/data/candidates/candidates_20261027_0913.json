@@ -1,0 +1,61 @@
+{
+  "generated_at": "2026-10-27T09:13:52",
+  "source_model": "qwen3.7-flash",
+  "total": 11,
+  "candidates": [
+    {
+      "title": "Island Goes Dark to Save Baby Seabirds",
+      "description": "Corvo Island in the Azores turns off all public lighting for five nights each autumn, helping fledgling Cory’s shearwaters navigate by starlight to the ocean without getting disoriented.",
+      "category": "planet",
+      "source_url": "https://www.theguardian.com/environment/2026/oct/25/corvo-azores-corys-shearwaters-switch-off-saving-seabirds-aoe",
+      "source_name": "Guardian Env",
+      "score": 8,
+      "approved": false
+    },
+    {
+      "title": "Anthropic Files for Record-Breaking $1.5 Trillion IPO",
+      "description": "The AI company behind Claude is preparing for one of the largest stock market debuts in history, testing the financial viability of the booming artificial intelligence sector.",
+      "category": "technology",
+      "source_url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
+      "source_name": "Guardian Tech",
+      "score": 7,
+      "approved": false
+    },
+    {
+      "title": "Hunter's Moon Captivates Photographers Worldwide",
+      "description": "Stunning images from around the globe showcase October's full Hunter's Moon, lighting up night skies and inspiring amateur astronomers and photographers alike.",
+      "category": "planet",
+      "source_url": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Science",
+      "score": 7,
+      "approved": false
+    },
+    {
+      "title": "Dictionary.com Names 'Maxxing' Word of the Year",
+      "description": "The suffix '-maxxing', used to describe optimizing every aspect of life, has been chosen as the word of the year, reflecting a cultural shift toward self-improvement and digital trends.",
+      "category": "culture",
+      "source_url": "https://www.theguardian.com/science/2026/oct/26/maxxing-word-of-the-year-dictionary",
+      "source_name": "Guardian Science",
+      "score": 6,
+      "approved": false
+    },
+    {
+      "title": "Bayeux Tapestry Beats Hollywood for Young Audiences",
+      "description": "Data reveals that young Britons are more eager to see the 1,000-year-old embroidery exhibition than top film blockbusters, marking a surprising pop culture moment for medieval art.",
+      "category": "culture",
+      "source_url": "https://www.theguardian.com/world/2026/oct/26/young-britons-bayeux-tapestry-tickets-british-museum-hollywood-blockbusters",
+      "source_name": "Guardian Culture",
+      "score": 6,
+      "approved": false
+    },
+    {
+      "title": "OpenAI Announces Major Science Discoveries",
+      "description": "Less than a month after releasing math solutions, OpenAI unveils three new major discoveries in computer science and physics, collaborating with external experts to guide the results.",
+      "category": "science",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "source_name": "The Verge",
+      "score": 7,
+      "approved": false
+    }
+  ]
+}

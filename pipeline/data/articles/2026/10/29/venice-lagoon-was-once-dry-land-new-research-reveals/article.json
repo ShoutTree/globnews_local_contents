@@ -1,0 +1,89 @@
+{
+  "slug": "venice-lagoon-was-once-dry-land-new-research-reveals",
+  "title": "Venice Lagoon Was Once Dry Land, New Research Reveals",
+  "excerpt": "Scientists reconstruct how rising seas over 10,000 years transformed inland hills and swamps into the floating city of Venice.",
+  "category": "science",
+  "authorId": "globdesk",
+  "publishedAt": "2026-10-29T11:27:14+08:00",
+  "readMinutes": 2,
+  "tags": [
+    "venice",
+    "geology",
+    "sea-level-rise",
+    "archaeology",
+    "adriatic-sea"
+  ],
+  "coverPrompt": "A photorealistic wide shot of the historic Venice lagoon at sunset, showing traditional wooden boats gliding through calm waters near ancient stone buildings, with soft golden light reflecting off the surface, no people visible, high resolution, cinematic lighting.",
+  "coverImage": "https://assets.glob.news/imgs/2026/10/29/venice-lagoon-was-once-dry-land-new-research-reveals/cover.jpg",
+  "featured": false,
+  "body": [
+    "The floating city of Venice is renowned for its unique architecture built upon water, but new research reveals that the land beneath it was once far removed from the sea. Scientists have uncovered evidence showing that the area now known as the Venice lagoon was dry ground extending more than 30 miles inland, fundamentally reshaping our understanding of the region's geological history.",
+    "A team led by Samuele Ongaro at the University of Southampton has published findings in Quaternary Science Reviews detailing how dramatic changes in sea level over the past 10,000 years transformed the northern Adriatic coastline. By combining seismic data with sedimentary cores collected from coastal basins in northern Italy, Slovenia, and northern Croatia, the researchers were able to model these shifts and reconstruct the ancient landscapes that existed long before modern settlements arose.",
+    "The study indicates that the present-day lagoon was not always a body of water but rather part of a vast terrestrial landscape. Furthermore, the area surrounding Trieste, which is now largely submerged or marshy, was previously characterized by hills overlooking swamps and lagoons. This reconstruction provides a vivid picture of an environment that looked nothing like the watery maze familiar to visitors today.",
+    "Starting just over 10,000 years ago, sea levels began to rise in fits and starts across the northern Adriatic. In some periods, the water level increased by up to 25 millimeters per year, a rapid change that forced Mesolithic hunter-gatherer populations to adapt quickly. These early inhabitants had to constantly shift their hunting and fishing activities to keep pace with the rapidly changing coastline and disappearing land.",
+    "The researchers identified three distinct phases of dramatic environmental change during this period of rising seas. These fluctuations significantly altered the habitable terrain, pushing human communities further toward higher ground or forcing them to develop new strategies for survival in a wetting world. The pace of change was intense enough to disrupt established patterns of life for thousands of years.",
+    "Following these turbulent phases, the region entered a period of relative stability over the last 6,000 years. This stabilization allowed for the gradual formation of permanent settlements and the advent of farming in the landscape we recognize today. The slower rate of sea-level rise provided the necessary conditions for agriculture and community building to take root in the remaining dry patches and elevated areas.",
+    "This research highlights the dynamic nature of coastlines and the significant impact climate and geological forces have on human habitation. It underscores that the geography of northern Italy has been in a state of flux for millennia, with the boundary between land and sea moving dramatically back and forth. The current configuration of the Venetian lagoon is just one chapter in a much longer story of transformation.",
+    "By analyzing sedimentary cores and seismic readings, scientists can peer back into the deep past to understand how ancient environments supported early human societies. The findings offer valuable context for contemporary discussions about sea-level rise, illustrating how natural processes have reshaped inhabited lands in the past and what that might imply for future coastal management."
+  ],
+  "keyPoints": [
+    "Venice lagoon was once dry land extending over 30 miles inland.",
+    "Sea levels rose rapidly after 10,000 years ago, altering the northern Adriatic coast.",
+    "Trieste area was formerly hills overlooking swamps and lagoons.",
+    "Mesolithic populations adapted to shifting coastlines for hunting and fishing.",
+    "Stability over the last 6,000 years enabled settlement and farming."
+  ],
+  "sourceName": "Guardian Science",
+  "sourceUrl": "https://www.theguardian.com/science/2026/oct/28/rising-seas-transformed-dry-land-venice-lagoon",
+  "factCheck": {
+    "verdict": "pass",
+    "claims": [
+      {
+        "claim": "Scientists reconstruct how rising seas over 10,000 years transformed inland hills and swamps into the Venice lagoon.",
+        "status": "supported",
+        "evidence": "The reference states that research shows dramatic changes in sea level over 10,000 years have reshaped the northern Adriatic coastline, uncovering ancient hills and swamps."
+      },
+      {
+        "claim": "The area now known as the Venice lagoon was dry ground extending more than 30 miles inland.",
+        "status": "supported",
+        "evidence": "The reference explicitly states that results show the present-day Venice lagoon was once dry land extending more than 30 miles from the coast."
+      },
+      {
+        "claim": "A team led by Samuele Ongaro at the University of Southampton published findings in Quaternary Science Reviews.",
+        "status": "supported",
+        "evidence": "The reference identifies Samuele Ongaro at the University of Southampton as the lead researcher and notes their results were published in Quaternary Science Reviews."
+      },
+      {
+        "claim": "Researchers combined seismic data with sedimentary cores collected from coastal basins in northern Italy, Slovenia, and northern Croatia.",
+        "status": "supported",
+        "evidence": "The reference confirms that colleagues combined seismic data with sedimentary cores from the coastal basins of northern Italy, Slovenia and northern Croatia."
+      },
+      {
+        "claim": "The area surrounding Trieste was previously characterized by hills overlooking swamps and lagoons.",
+        "status": "supported",
+        "evidence": "The reference states that Trieste was previously an area of hills overlooking swamps and lagoons."
+      },
+      {
+        "claim": "Starting just over 10,000 years ago, sea levels rose in fits and starts, sometimes by up to 25 millimeters per year.",
+        "status": "supported",
+        "evidence": "The reference confirms that starting just over 10,000 years ago, sea level rose in fits and starts, sometimes by up to 25mm a year."
+      },
+      {
+        "claim": "Rapid sea-level rise forced Mesolithic hunter-gatherer populations to shift their hunting and fishing activities.",
+        "status": "supported",
+        "evidence": "The reference states this rapid change forced Mesolithic hunter-gatherer populations to shift their hunting and fishing activities as they adapted to a rapidly changing environment."
+      },
+      {
+        "claim": "There were three distinct phases of dramatic environmental change followed by relative stability over the last 6,000 years.",
+        "status": "supported",
+        "evidence": "The reference mentions that the most dramatic changes occurred in three distinct phases, followed by a period of relative stability over the past 6,000 years."
+      },
+      {
+        "claim": "The period of stability over the last 6,000 years supported the formation of settlements and the advent of farming.",
+        "status": "supported",
+        "evidence": "The reference states that this stabilization supported the formation of settlements and the advent of farming in the landscape we are familiar with today."
+      }
+    ],
+    "notes": "All significant factual claims in the draft article are directly supported by the reference report. The draft accurately reflects the researchers, institutions, publication venue, geographical details, timeline, and specific metrics (30 miles, 25mm/year) cited in the source."
+  }
+}

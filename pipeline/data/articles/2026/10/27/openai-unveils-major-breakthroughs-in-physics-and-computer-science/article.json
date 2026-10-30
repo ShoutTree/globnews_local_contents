@@ -1,0 +1,42 @@
+{
+  "slug": "openai-unveils-major-breakthroughs-in-physics-and-computer-science",
+  "title": "OpenAI Unveils Major Breakthroughs in Physics and Computer Science",
+  "excerpt": "OpenAI releases three new AI-generated discoveries in math, physics, and computer science, adopting a new collaborative model with external experts.",
+  "category": "science",
+  "authorId": "globdesk",
+  "publishedAt": "2026-10-27T09:25:18+08:00",
+  "readMinutes": 2,
+  "tags": [
+    "ai",
+    "science",
+    "openai",
+    "research",
+    "physics"
+  ],
+  "coverPrompt": "A modern laboratory setting with sleek white desks, large monitors displaying complex mathematical equations and code, soft blue ambient lighting, and a few researchers in casual attire discussing documents, photorealistic style, no text or logos visible.",
+  "coverImage": "https://assets.glob.news/imgs/2026/10/27/openai-unveils-major-breakthroughs-in-physics-and-computer-science/cover.jpg",
+  "featured": false,
+  "body": [
+    "OpenAI has announced three significant scientific discoveries spanning mathematics, computer science, and physics, marking a notable shift in how the company handles the release of complex AI-generated research. Less than a month after releasing hundreds of manuscripts containing solutions to longstanding mathematical problems, the artificial intelligence lab is back with what it describes as major breakthroughs. This time, however, OpenAI is taking advice from scientists on how to present these results to the broader academic community.",
+    "The announcement includes a proof for the local smoothing conjecture in every spatial dimension of at least two, which also resolves the Kakeya maximal and dimension conjectures and Stein’s spherical restriction estimates. For this mathematical achievement, OpenAI states it will release the model output directly, allowing researchers to work through their own explanations, similar to its previous release strategy. The company acknowledges that this approach may have issues, noting that its AGMAI panel of math advisers recently recommended against designating certain individuals to receive outputs first due to concerns about unequal access and biased selection.",
+    "In the realm of computer science, OpenAI claims to have proven that the Exponential Time Hypothesis is false. This hypothesis, widely believed to be true since its proposal in 1999, suggests limits on the speed of solving certain computational problems. The AI reportedly provides a deterministic algorithm that can exactly count satisfying assignments of fixed-width CNF formulas in subexponential time and polynomial space. To verify this claim, OpenAI has enlisted an independent working group of computer scientists, including Russell Impagliazzo, Ramamohan Paturi, and Ryan Williams, to examine and explain the proof.",
+    "The verification process for the computer science discovery involves immediate public release of the materials on GitHub. The expert group requested this transparency so others could examine the work. OpenAI has also published an open letter to the community, inviting discussion on broader questions regarding early access to AI-generated results, disclosure of conflicts of interest, and how credit should be assigned for both new discoveries and the subsequent work of checking and simplifying them.",
+    "The third discovery pertains to physics, specifically quantum field theory. While the full information has not been released, OpenAI describes it as a mathematically rigorous existence proof of certain interacting quantum field theories containing gauge fields and fermions in four dimensions. This includes Quantum Chromodynamics (QCD) and a unified completion of the Standard Model of particle physics. David Gross will lead a group including Michael Douglas, Arthur Jaffe, Igor Klebanov, and Nikita Nekrasov to shepherd this work.",
+    "These announcements come amid ongoing debate about the role of AI in scientific discovery. Just months ago, New York University professor Hong Wang was awarded the prestigious Fields Medal for resolving the Kakeya conjecture in three dimensions, highlighting the high stakes and human effort involved in such mathematical achievements. OpenAI’s latest moves suggest an attempt to integrate AI-generated proofs into the traditional peer-review and verification processes, though the company admits potential pitfalls in its methodology.",
+    "The company’s approach reflects a growing tension between rapid technological advancement and established academic norms. By involving external experts as \"shepherds\" for the physics and computer science results, OpenAI aims to ensure that the findings are scrutinized rigorously before being accepted by the scientific community. This collaborative model contrasts with the more direct release of the mathematical proofs, indicating a nuanced strategy tailored to the complexity and nature of each discovery."
+  ],
+  "keyPoints": [
+    "OpenAI announces three major discoveries in math, computer science, and physics.",
+    "The company uses external experts to guide the release of CS and physics results.",
+    "A proof challenges the Exponential Time Hypothesis, verified by an independent group.",
+    "Mathematical proofs are released directly for researcher analysis.",
+    "Physics result is a rigorous existence proof for quantum field theories."
+  ],
+  "sourceName": "The Verge",
+  "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+  "factCheck": {
+    "verdict": "warn",
+    "claims": [],
+    "notes": "fact-check output unparseable — MANUAL REVIEW REQUIRED"
+  }
+}

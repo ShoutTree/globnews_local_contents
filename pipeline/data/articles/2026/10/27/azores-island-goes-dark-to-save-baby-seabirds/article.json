@@ -1,0 +1,93 @@
+{
+  "slug": "azores-island-goes-dark-to-save-baby-seabirds",
+  "title": "Azores Island Goes Dark to Save Baby Seabirds",
+  "excerpt": "Corvo Island switches off all streetlights for five nights each autumn, allowing fledgling Cory’s shearwaters to navigate by starlight to the ocean.",
+  "category": "planet",
+  "authorId": "globdesk",
+  "publishedAt": "2026-10-27T09:21:55+08:00",
+  "readMinutes": 2,
+  "tags": [
+    "conservation",
+    "azores",
+    "seabirds",
+    "light-pollution",
+    "portugal"
+  ],
+  "coverPrompt": "A dark coastal village at night with clear starry skies above. A group of people holding soft lanterns gently carry a small box containing a baby seabird along a stone path near the ocean cliffs. No text or logos visible.",
+  "coverImage": "https://assets.glob.news/imgs/2026/10/27/azores-island-goes-dark-to-save-baby-seabirds/cover.jpg",
+  "featured": false,
+  "body": [
+    "Every autumn, Corvo Island in Portugal’s Azores archipelago undergoes a deliberate transformation. The smallest and most northerly of the islands turns off its public lighting for five key nights, creating a sanctuary for endangered seabirds. This annual blackout is designed to help fledgling Cory’s shearwaters navigate toward the ocean using natural starlight, free from the disorienting glare of artificial illumination.",
+    "The initiative stems from a tragic observation made in 1991, when local residents noticed a high mortality rate among young shearwaters. These birds spend three months in their nests before attempting their first flight. Relying on stars for orientation, many juveniles became fatally confused by the glow of streetlights, leading them to crash into the narrow streets of Vila do Corvo, the island's only village.",
+    "In response, community members began night patrols to rescue fallen birds. This grassroots effort inspired broader action, leading the Azorean government to launch the SOS Cagarro campaign in 1995. The project expanded to include other islands in the archipelago, eventually gaining support from the Portuguese Society for the Study of Birds (SPEA) to enhance conservation efforts.",
+    "Today, Corvo remains unique in its commitment to a full blackout of public illumination. As the island sinks into darkness, the stars become clearly visible, guiding the birds on their journey. Residents walk through the village to locate and rescue any chicks that have landed on the ground, placing them in cardboard boxes overnight to recover.",
+    "The following day, rescued birds are released from a cliff near the ocean, giving them a second chance to reach their new home. Since 2015, the campaign has saved more than 30,000 Cory’s shearwater fledglings across the Azores, with approximately 6,000 rescued on Corvo alone. This collective effort highlights the significant impact of reducing light pollution on biodiversity.",
+    "The blackout serves as a powerful example of how small, intentional changes can restore ecological balance. It demonstrates a shift toward coexisting with nature without disrupting its natural rhythms. By prioritizing the needs of wildlife over convenience, the community has created a model for conservation that resonates beyond the Atlantic.",
+    "For observers, the story offers a message of hope, particularly when future generations are involved in protecting the planet. The initiative underscores the importance of teaching care for the environment and its beauty. It shows that human communities can adapt their habits to support the survival of endemic species."
+  ],
+  "keyPoints": [
+    "Corvo Island switches off public lights for five nights each autumn.",
+    "The blackout helps Cory’s shearwaters navigate by starlight to the ocean.",
+    "Since 2015, over 30,000 fledglings have been rescued in the Azores.",
+    "The initiative began after residents noticed bird deaths from light confusion.",
+    "Corvo is the only island performing a full public illumination blackout."
+  ],
+  "sourceName": "Guardian Env",
+  "sourceUrl": "https://www.theguardian.com/environment/2026/oct/25/corvo-azores-corys-shearwaters-switch-off-saving-seabirds-aoe",
+  "factCheck": {
+    "verdict": "pass",
+    "claims": [
+      {
+        "claim": "Corvo Island switches off public lighting for five nights each autumn.",
+        "status": "supported",
+        "evidence": "The reference states: 'Since 2019, the island’s 450 or so inhabitants have chosen to switch off the lights every autumn for five nights...'"
+      },
+      {
+        "claim": "The initiative helps fledgling Cory’s shearwaters navigate by starlight.",
+        "status": "supported",
+        "evidence": "The reference confirms: 'help fledgling Cory’s shearwaters as they attempt to fly to the ocean guided by the stars' and 'orienting themselves by the stars.'"
+      },
+      {
+        "claim": "The problem originated in 1991 when residents noticed high mortality among young shearwaters.",
+        "status": "supported",
+        "evidence": "The reference states: 'It began in 1991 when the community noticed huge numbers of deaths among young shearwaters.'"
+      },
+      {
+        "claim": "Juvenile shearwaters spend three months in nests before their first flight.",
+        "status": "supported",
+        "evidence": "The reference notes: 'The juveniles spend three months in their nests before attempting their first flight...'"
+      },
+      {
+        "claim": "Artificial light confuses the birds, causing them to crash into Vila do Corvo's streets.",
+        "status": "supported",
+        "evidence": "The reference explains: 'many are fatally confused by the artificial glow of streetlights, and end up crashing into Vila do Corvo’s narrow streets.'"
+      },
+      {
+        "claim": "The Azorean government launched the SOS Cagarro campaign in 1995.",
+        "status": "supported",
+        "evidence": "The reference states: 'in 1995, the Azorean government launched the “SOS Cagarro” [shearwaters] campaign...'"
+      },
+      {
+        "claim": "The Portuguese Society for the Study of Birds (SPEA) joined the project later.",
+        "status": "supported",
+        "evidence": "The reference mentions: 'In subsequent years, the Portuguese Society for the Study of Birds (SPEA) joined the project...'"
+      },
+      {
+        "claim": "Rescued birds are placed in cardboard boxes overnight and released from a cliff the next day.",
+        "status": "supported",
+        "evidence": "The reference details: 'Those rescued will be placed in cardboard boxes overnight to recover, and released the next day from a cliff close to the ocean...'"
+      },
+      {
+        "claim": "Since 2015, over 30,000 fledglings have been rescued in the Azores, with about 6,000 on Corvo.",
+        "status": "supported",
+        "evidence": "The reference cites: 'the campaign says more than 30,000 Cory’s shearwater fledglings have been rescued in the Azores since 2015 – about 6,000 of them on Corvo alone.'"
+      },
+      {
+        "claim": "Corvo is unique in performing a full blackout of public illumination.",
+        "status": "supported",
+        "evidence": "The reference states: 'Today, Corvo is still the only island that performs a full blackout of public illumination...'"
+      }
+    ],
+    "notes": "All factual claims in the draft article are directly supported by the reference text. The draft accurately reflects the dates, statistics, historical context, and procedural details provided in the Guardian report."
+  }
+}

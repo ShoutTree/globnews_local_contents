@@ -1,0 +1,70 @@
+{
+  "generated_at": "2026-10-30T08:22:34",
+  "source_model": "qwen3.7-flash",
+  "total": 10,
+  "candidates": [
+    {
+      "title": "Golden eagle chick marks key moment for Scottish conservation",
+      "description": "The arrival of a golden eagle chick on a managed grouse moor in southern Scotland is seen as a significant milestone for the species' recovery and habitat management.",
+      "category": "planet",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq4g1jyj9dv7o?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Science",
+      "score": 8,
+      "approved": false
+    },
+    {
+      "title": "Bus stop roofs get mini-gardens to boost urban bee biodiversity",
+      "description": "New bus stop contracts will install living roofs designed to create habitats for bees and other pollinators, turning urban infrastructure into green spaces.",
+      "category": "planet",
+      "source_url": "https://www.bbc.co.uk/news/articles/c62e9vynyvdpo?at_medium=RSS&at_campaign=rss",
+      "source_name": "BBC Science",
+      "score": 8,
+      "approved": false
+    },
+    {
+      "title": "Spacewalkers deploy solar arrays on the ISS in live broadcast",
+      "description": "NASA and CSA astronauts performed a spacewalk to install and deploy International Space Station Roll-Out Solar Arrays, boosting the station's power capacity.",
+      "category": "science",
+      "source_url": "https://www.theguardian.com/science/video/2026/oct/29/astronauts-step-out-of-the-iss-for-spacewalk-watch-live",
+      "source_name": "Guardian Science",
+      "score": 9,
+      "approved": false
+    },
+    {
+      "title": "Electric ferries are here, and some even fly",
+      "description": "A new wave of electric vessels is transforming US waterways, with innovative designs like flying ferries aiming to reduce emissions and improve air quality.",
+      "category": "technology",
+      "source_url": "https://www.theguardian.com/environment/2026/oct/29/us-electric-ferries",
+      "source_name": "Guardian Tech",
+      "score": 8,
+      "approved": false
+    },
+    {
+      "title": "Reddit forces users to log in, changing how we browse",
+      "description": "Reddit announces a major shift requiring all users to create accounts to browse content, impacting how crowdsourced information is accessed online.",
+      "category": "technology",
+      "source_url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
+      "source_name": "The Verge",
+      "score": 7,
+      "approved": false
+    },
+    {
+      "title": "Atlanta Dream force historic WNBA Finals Game 7",
+      "description": "The Atlanta Dream defeated the Golden State Valkyries to level the series, setting up the first-ever decisive seventh game in WNBA Finals history.",
+      "category": "sports",
+      "source_url": "https://www.theguardian.com/sport/2026/oct/29/atlanta-dream-golden-state-valkyries-game-6-wnba-finals",
+      "source_name": "Guardian Sport",
+      "score": 9,
+      "approved": false
+    },
+    {
+      "title": "Sarah J Maas’s new novel sparks fan mania and ticket chaos",
+      "description": "The release of a new romantasy novel by Sarah J Maas caused tickets for a celebratory masquerade ball to sell out in just 13 minutes, highlighting the genre's massive popularity.",
+      "category": "culture",
+      "source_url": "https://www.theguardian.com/books/2026/oct/28/we-sold-out-tickets-within-13-minutes-new-novel-from-romantasy-author-sarah-j-maas-sparks-fan-mania",
+      "source_name": "Guardian Culture",
+      "score": 7,
+      "approved": false
+    }
+  ]
+}

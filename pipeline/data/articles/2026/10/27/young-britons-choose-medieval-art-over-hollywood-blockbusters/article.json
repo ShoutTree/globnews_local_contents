@@ -1,0 +1,90 @@
+{
+  "slug": "young-britons-choose-medieval-art-over-hollywood-blockbusters",
+  "title": "Young Britons Choose Medieval Art Over Hollywood Blockbusters",
+  "excerpt": "Data shows UK youth spending on Bayeux Tapestry tickets outpaces major film releases, signaling a shift in cultural priorities.",
+  "category": "culture",
+  "authorId": "globdesk",
+  "publishedAt": "2026-10-27T09:24:35+08:00",
+  "readMinutes": 2,
+  "tags": [
+    "bayeux tapestry",
+    "british museum",
+    "young adults",
+    "spending trends",
+    "medieval art"
+  ],
+  "coverPrompt": "A photorealistic wide shot of the interior of a dimly lit museum gallery featuring long, illuminated glass display cases containing intricate medieval embroidered textiles. Visitors stand quietly observing the artifacts from behind barriers. Soft ambient lighting highlights the detailed stitching. No people's faces are clearly visible. Neutral color palette with warm accent lights.",
+  "coverImage": "https://assets.glob.news/imgs/2026/10/27/young-britons-choose-medieval-art-over-hollywood-blockbusters/cover.jpg",
+  "featured": false,
+  "body": [
+    "A thousand-year-old piece of embroidery has unexpectedly become the center of a modern pop culture phenomenon, surpassing the box office appeal of recent Hollywood blockbusters among young British audiences. Data from payment provider Monzo reveals that visitors under the age of 35 are prioritizing tickets to see the Bayeux Tapestry over cinema outings, marking a surprising moment for medieval art in the digital age.",
+    "The surge in interest became evident last Wednesday when the second round of tickets for the exhibition went on sale. In the first hour alone, Monzo cardholders spent £14,100 at the British Museum, a figure that was 48 times higher than the bank’s average spending on a typical Wednesday morning. Notably, 55% of these transactions were made by individuals aged under 35, highlighting a strong demographic shift toward historical engagement.",
+    "This financial enthusiasm stands in stark contrast to the opening mornings of this year’s major film releases. According to Monzo’s spending data across its 16 million customers, ticket sales for the critically acclaimed film The Odyssey reached only £7,000, while the blockbuster Spider-Man: Brand New Day generated £6,300. The tapestry’s immediate revenue in just one hour doubled the opening mornings' earnings of these highly anticipated cinematic events.",
+    "Despite the high cost of admission, which is significantly steeper than an average movie ticket, the demand remains robust. Standard adult peak tickets are priced at £33, with off-peak options available for £27. When adjusted for these higher entrance fees and the limited availability of seats compared to wide-release films, the per-customer spending power directed toward the tapestry is even more impressive. Buyers spent an average of £97 during checkout, five times the average spend on Spider-Man tickets, which stood at £19.",
+    "The appeal of the exhibition extends far beyond London, drawing enthusiasts from across the country. Nearly half of the buyers were based outside the capital, with purchases recorded as far north as Glasgow. This national reach underscores the significance of the event, as the tapestry is currently on display in England for the first time since it was taken to France in the 11th century.",
+    "Ticket availability was extremely competitive, with thousands joining an online queue when sales began at 10 am. Spots sold out within three hours, a much faster pace than the first wave of tickets, which took 24 hours to clear. The frenzy has drawn comparisons to major music festivals like Glastonbury and reunion tours, illustrating the intense public desire to witness the woven record of the Norman Conquest.",
+    "The British Museum described the response to the exhibition, which opened last month, as extraordinary. To manage the overwhelming crowds and lengthy queues, museum officials implemented new measures, including banning photography inside the gallery. These changes aim to preserve the integrity of the viewing experience while accommodating the massive influx of visitors eager to see the artifact up close.",
+    "Critics and curators have praised the exhibition for its meticulous presentation of the textile’s technical prowess and storytelling. The Guardian described the work as 'a stupefying, thrilling, horrifying masterpiece that shakes the earth.' The combination of historical value and artistic skill continues to resonate with modern audiences, proving that ancient narratives can still captivate contemporary sensibilities."
+  ],
+  "keyPoints": [
+    "Monzo data shows 55% of Bayeux Tapestry ticket buyers were under 35.",
+    "First-hour spending of £14,100 doubled opening morning film revenues.",
+    "Average buyer spend was £97, five times higher than cinema tickets.",
+    "Tickets sold out in three hours, beating previous sales records.",
+    "Exhibition draws visitors from across the UK, not just London."
+  ],
+  "sourceName": "Guardian Culture",
+  "sourceUrl": "https://www.theguardian.com/world/2026/oct/26/young-britons-bayeux-tapestry-tickets-british-museum-hollywood-blockbusters",
+  "factCheck": {
+    "verdict": "pass",
+    "claims": [
+      {
+        "claim": "Monzo data shows 55% of British Museum payments in the first hour of ticket sales were from people under 35.",
+        "status": "supported",
+        "evidence": "The reference states: 'More than half (55%) of those buyers were aged under 35.'"
+      },
+      {
+        "claim": "Payments reached £14,100 in the first hour, which was 48 times higher than a typical Wednesday morning average.",
+        "status": "supported",
+        "evidence": "The reference states: 'payments from Monzo cardholders to the British Museum reached £14,100 and were 48 times that of a normal Wednesday morning.'"
+      },
+      {
+        "claim": "Tapestry revenue (£14,100) doubled the opening morning earnings of The Odyssey (£7,000) and Spider-Man: Brand New Day (£6,300).",
+        "status": "supported",
+        "evidence": "The reference states: 'This was double the opening mornings for this year’s blockbuster films: the critically acclaimed The Odyssey, at £7,000, and the box office smash hit Spider-Man: Brand New Day, at £6,300...'"
+      },
+      {
+        "claim": "Standard adult peak tickets are £33 and off-peak are £27.",
+        "status": "supported",
+        "evidence": "The reference states: 'at £33 for standard adult peak tickets and £27 for off-peak.'"
+      },
+      {
+        "claim": "Buyers spent an average of £97 on the tapestry versus £19 on Spider-Man tickets.",
+        "status": "supported",
+        "evidence": "The reference states: 'buyers spent five times more on average at the checkout than on Spider-Man’s opening morning, at £97 versus £19.'"
+      },
+      {
+        "claim": "Almost half of the buyers were based outside London, with purchases recorded as far north as Glasgow.",
+        "status": "supported",
+        "evidence": "The reference states: 'almost half of the buyers based outside London, and the furthest purchases coming from Glasgow.'"
+      },
+      {
+        "claim": "Tickets sold out within three hours, faster than the first wave which took 24 hours.",
+        "status": "supported",
+        "evidence": "The reference states: 'spots selling out within three hours – beating the first wave, which sold out in 24 hours.'"
+      },
+      {
+        "claim": "The British Museum banned photography inside the gallery to manage crowds.",
+        "status": "supported",
+        "evidence": "The reference states: 'including banning visitors from taking photos.'"
+      },
+      {
+        "claim": "The Guardian described the work as 'a stupefying, thrilling, horrifying masterpiece that shakes the earth.'",
+        "status": "supported",
+        "evidence": "The reference quotes the Guardian exactly as: 'a stupefying, thrilling, horrifying masterpiece that shakes the earth'."
+      }
+    ],
+    "notes": "All factual claims in the draft article are directly supported by the reference text. No contradictions or unsupported claims were found.",
+    "revised": true
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "apple-issues-replacements-for-iphone-duo-foldable-screens",
+  "title": "Apple Issues Replacements for iPhone Duo Foldable Screens",
+  "excerpt": "Apple acknowledges screen defects in its first foldable smartphone and offers replacements to affected users.",
+  "category": "technology",
+  "authorId": "globdesk",
+  "publishedAt": "2026-10-28T09:47:21+08:00",
+  "readMinutes": 2,
+  "tags": [
+    "apple",
+    "iphone duo",
+    "foldable phones",
+    "technology",
+    "consumer electronics"
+  ],
+  "coverPrompt": "A sleek, modern smartphone lying flat on a minimalist white desk surface. The device is partially folded, revealing a large inner screen with subtle visible pixel lines near the center hinge. Soft natural lighting illuminates the metallic edges and glass back. No logos, text, or human figures are present in the scene.",
+  "coverImage": "https://assets.glob.news/imgs/2026/10/28/apple-issues-replacements-for-iphone-duo-foldable-screens/cover.jpg",
+  "featured": false,
+  "body": [
+    "Apple has officially acknowledged manufacturing defects affecting the screens of its newly released iPhone Duo, prompting the company to offer immediate replacements to impacted customers. The admission comes just days after the highly anticipated foldable device hit store shelves globally, marking a significant moment for the tech giant as it attempts to redefine mobile hardware design.",
+    "Social media platforms have been flooded with images from early adopters showing visible lines appearing on the inner displays of the handsets. These visual glitches are concentrated near the central hinge area, raising concerns about the durability of the complex folding mechanism. The issue affects a small number of units, but the visibility of the flaws has drawn widespread attention to the product's launch phase.",
+    "In a statement addressing the situation, Apple confirmed it is aware of \"an issue impacting the inner display on a small number\" of devices. The company urged anyone experiencing these problems to contact support directly to arrange for a replacement unit. This proactive approach aims to mitigate customer frustration and maintain brand loyalty during this critical product introduction.",
+    "The iPhone Duo represents Apple’s entry into the premium foldable market, a segment previously dominated by competitors like Samsung. With a starting price of £1,999 ($2,668) in the UK, the device positions itself as a high-end alternative to existing options. The launch event last week saw crowds gathering at Apple stores worldwide, reflecting strong consumer interest in the company’s first major iPhone redesign in nearly two decades.",
+    "Beyond the digital lines, some owners reported physical issues, including cracks along the screen’s center crease and unusual crunching noises when opening or closing the device. These complaints highlight the engineering challenges inherent in creating a seamless foldable experience. The 7.6-inch inner display relies on a sophisticated hinge system that must balance flexibility with structural integrity.",
+    "Francisco Jeronimo, a technology analyst at IDC, noted that while the extent of the problem remains unclear, the early reports underscore the steep learning curve even experienced companies face in the foldable sector. He suggested that how Apple handles this first-generation issue will significantly influence buyer confidence in the category, extending beyond just the sales of this specific model.",
+    "The challenges mirror those faced by rivals in the past. Samsung’s initial Galaxy Fold suffered similar setbacks in 2019 when reviewers reported broken screens on the devices. Apple’s current iteration appears to have encountered different but related vulnerabilities, particularly concerning the inner display’s resilience against stress points near the hinge.",
+    "Apple’s new chief executive, John Ternus, who took over from Tim Cook in September, unveiled the device as a redefinition of the foldable phone experience. He emphasized that the Duo avoids feeling like two phones awkwardly joined, aiming instead for a cohesive tablet-like form factor when open. However, the technical hurdles remain evident in the early user feedback.",
+    "With the device set to launch in an additional 28 markets on October 30, Apple faces pressure to clarify its warranty policies and ensure consistent quality control across global supply chains. The company’s extensive retail network allows for swift device swaps, which may help contain reputational damage. Nevertheless, the incident serves as a reminder that innovation in hardware continues to carry substantial risks."
+  ],
+  "keyPoints": [
+    "Apple confirms screen defects on a small number of iPhone Duo units.",
+    "Affected users are being offered free replacements through Apple Support.",
+    "Issues include visible lines and cracks near the central folding hinge.",
+    "The defect highlights ongoing engineering challenges in the foldable market.",
+    "iPhone Duo launches in 28 more markets on October 30."
+  ],
+  "sourceName": "BBC Technology",
+  "sourceUrl": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+  "factCheck": {
+    "verdict": "fail",
+    "claims": [
+      {
+        "claim": "Apple acknowledges screen defects in its first foldable smartphone and offers replacements to affected users.",
+        "status": "supported",
+        "evidence": "The reference states Apple acknowledged problems with screens and urged affected users to contact the company for a replacement."
+      },
+      {
+        "claim": "Social media platforms have been flooded with images from early adopters showing visible lines appearing on the inner displays of the handsets.",
+        "status": "supported",
+        "evidence": "The reference confirms photos posted on social media show lines that appeared on the screens."
+      },
+      {
+        "claim": "These visual glitches are concentrated near the central hinge area.",
+        "status": "contradicted",
+        "evidence": "The reference specifically mentions an image of a device with lines across the 'right side of the display', not necessarily the central hinge area, and notes cracks along the center crease separately."
+      },
+      {
+        "claim": "Francisco Jeronimo, a technology analyst at IDC, noted... He suggested that how Apple handles this first-generation issue will significantly influence buyer confidence in the category...",
+        "status": "supported",
+        "evidence": "The reference quotes Jeronimo saying 'how it handles this first-generation issue will shape buyer confidence in the category well beyond its own sales'."
+      },
+      {
+        "claim": "Samsung’s initial Galaxy Fold suffered similar setbacks in 2019 when reviewers reported broken screens on the devices.",
+        "status": "supported",
+        "evidence": "The reference states Samsung's first foldable phone, the Galaxy Fold, suffered an early setback in 2019 when reviewers reported broken screens."
+      },
+      {
+        "claim": "Apple’s new chief executive, John Ternus, who took over from Tim Cook in September, unveiled the device...",
+        "status": "supported",
+        "evidence": "The reference confirms the Duo was unveiled by new chief executive John Ternus, who took over from Tim Cook in September."
+      },
+      {
+        "claim": "With the device set to launch in an additional 28 markets on October 30...",
+        "status": "unsupported",
+        "evidence": "The reference mentions 'a further 28 markets launching on 30 October' but does not specify the exact date as October 30 in the context of a confirmed global rollout schedule, only quoting the analyst's comment about the need to clarify warranty positions before that date. More critically, the draft presents this as a factual current status without the nuance of the reference which frames it as a future challenge/quote."
+      },
+      {
+        "claim": "The iPhone Duo represents Apple’s entry into the premium foldable market, a segment previously dominated by competitors like Samsung.",
+        "status": "supported",
+        "evidence": "The reference states the launch is an attempt to 'challenge the foldable phones made by rivals' and mentions Android users already have a broad selection."
+      },
+      {
+        "claim": "Some owners reported physical issues, including cracks along the screen’s center crease and unusual crunching noises when opening or closing the device.",
+        "status": "supported",
+        "evidence": "The reference states 'Some Duo owners also posted photos online showing cracks along the screen's centre crease, while others reported a crunching noise when opening the device.'"
+      }
+    ],
+    "notes": "The draft contains a contradiction regarding the location of the visual glitches (draft says 'central hinge area', reference cites 'right side of the display'). Additionally, the draft makes specific claims about the launch date (Oct 30) and price (£1,999/$2,668) which are supported, but the overall narrative relies heavily on the premise that these are widespread 'defects' rather than isolated incidents potentially involving AI-generated images as warned in the reference. The primary failure is the factual contradiction about the glitch location.",
+    "revised": true
+  }
+}

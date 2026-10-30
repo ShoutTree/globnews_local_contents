@@ -1,0 +1,151 @@
+{
+  "slug": "sarah-j-maas-new-novel-release-sparks-ticket-chaos-and-fan-mania",
+  "title": "Sarah J Maas new novel release sparks ticket chaos and fan mania",
+  "excerpt": "The launch of Sarah J Maas's latest romantasy book caused a UK bookstore's masquerade ball tickets to sell out in 13 minutes, highlighting the genre's massive cultural impact.",
+  "category": "culture",
+  "authorId": "globdesk",
+  "publishedAt": "2026-10-30T08:52:49+08:00",
+  "readMinutes": 2,
+  "tags": [
+    "sarah j maas",
+    "romantasy",
+    "book launches",
+    "uk publishing",
+    "acotar"
+  ],
+  "coverPrompt": "A dimly lit historic hall interior with wooden floors and high ceilings. Several people wearing elegant black and gold masquerade masks stand in groups holding hardcover books. Soft candlelight illuminates the scene. No faces are clearly visible due to masks and shadows. Atmospheric and celebratory mood.",
+  "coverImage": "https://assets.glob.news/imgs/2026/10/30/sarah-j-maas-new-novel-release-sparks-ticket-chaos-and-fan-mania/cover.jpg",
+  "featured": false,
+  "body": [
+    "A new novel by bestselling author Sarah J Maas has triggered intense fan enthusiasm across the United Kingdom, demonstrating the commercial power of the romantasy genre. The release of A Court of Splintered Harmony, the first installment in the A Court of Thorns and Roses series in over five years, led to immediate logistical challenges for independent bookshops celebrating the event.",
+    "The Spicy Librarian, a romance-focused bookstore in Leamington Spa, announced plans for a masquerade ball to mark the occasion. The response was overwhelming: approximately 6,000 people attempted to purchase just 220 tickets. According to co-founder Ali Maynard James, the website crashed immediately upon launch, and all tickets were sold out within 13 minutes.",
+    "To accommodate the demand, the shop relocated the celebration to Ragley Hall, a stately home in Warwickshire. The event featured riders dressed as fae warriors carrying torches on horseback. Tickets were priced at £149. Due to the high interest, the shop held a second identical event the following night, both of which sold out completely.",
+    "The book went on sale at 12:01 am on Tuesday. It is the sixth volume in the series known to fans as Acotar, which began in 2015 with a dark retelling of Beauty and the Beast. By 2021, the series had sold 13 million copies. Across her three interlinked fantasy series, Maas has now sold more than 75 million books in 40 languages.",
+    "Maynard James noted that many attendees began reading the book immediately upon receiving it at midnight, with some finishing the entire volume within a few hours. The shop ordered approximately 750 copies to cover both balls and pre-orders, indicating strong initial stock requirements.",
+    "Romantasy, a genre blending fantasy and romance, has evolved from an online niche into one of publishing’s most lucrative categories. Last year, Onyx Storm by Rebecca Yarros recorded the biggest first week for a hardback novel in the UK since Harper Lee’s Go Set a Watchman in 2015. In 2024, robust sales in romance and fantasy helped push UK fiction revenue above £1 billion for the first time.",
+    "Starlin Marot, owner of Bad Girl Books in Oxford, the UK’s first romantasy-only shop, observed similar trends. Although she planned to open for only half an hour after midnight for a few readers who requested it on Instagram, a large queue formed outside. She described the scene as a crazy flurry of people, noting that the series often serves as a gateway drug into reading for young women.",
+    "In London, Main Character Books opted for a different approach, serving breakfast to readers collecting pre-orders and hosting an evening party for 45 guests. Owner Cassie Simmons reported that pre-orders in early October exceeded expectations, forcing them to double their order with the publisher. Sales have continued to move through stock faster than anticipated.",
+    "A Court of Splintered Harmony is the first part of a four-part story. The next two parts will be released together in A Court of Forgotten Melody on January 12, while the final installment is still being written."
+  ],
+  "keyPoints": [
+    "Tickets for a Sarah J Maas book launch event sold out in 13 minutes.",
+    "A Court of Splintered Harmony is the first Acotar book in over five years.",
+    "UK fiction revenue surpassed £1bn in 2024, driven by romance and fantasy.",
+    "Maas has sold over 75 million books across three interlinked series.",
+    "The new novel is the first part of a four-part story arc."
+  ],
+  "sourceName": "Guardian Culture",
+  "sourceUrl": "https://www.theguardian.com/books/2026/oct/28/we-sold-out-tickets-within-13-minutes-new-novel-from-romantasy-author-sarah-j-maas-sparks-fan-mania",
+  "factCheck": {
+    "verdict": "fail",
+    "claims": [
+      {
+        "claim": "The release of A Court of Splintered Harmony, the first installment in the A Court of Thorns and Roses series in over five years...",
+        "status": "supported",
+        "evidence": "The reference states it is 'the first instalment of Maas’s A Court of Thorns and Roses series in more than five years'."
+      },
+      {
+        "claim": "Approximately 6,000 people attempted to purchase just 220 tickets.",
+        "status": "supported",
+        "evidence": "The reference confirms: '6,000 people tried to buy 220 tickets'."
+      },
+      {
+        "claim": "All tickets were sold out within 13 minutes.",
+        "status": "supported",
+        "evidence": "The reference quotes Ali Maynard James saying: 'We sold out within 13 minutes'."
+      },
+      {
+        "claim": "The Spicy Librarian relocated the celebration to Ragley Hall... The event featured riders dressed as fae warriors carrying torches on horseback.",
+        "status": "supported",
+        "evidence": "The reference confirms the ball was held at 'Ragley Hall in Warwickshire, where riders dressed as “fae warriors” carried torches on horseback'."
+      },
+      {
+        "claim": "Tickets were priced at £149.",
+        "status": "supported",
+        "evidence": "The reference states: 'Tickets were £149'."
+      },
+      {
+        "claim": "The shop held a second identical event the following night, both of which sold out completely.",
+        "status": "supported",
+        "evidence": "The reference notes: 'the shop ran the event again the following night, which also sold out'."
+      },
+      {
+        "claim": "The book went on sale at 12:01 am on Tuesday.",
+        "status": "supported",
+        "evidence": "The reference states: 'The book... went on sale at 12.01am on Tuesday'."
+      },
+      {
+        "claim": "It is the sixth volume in the series known to fans as Acotar, which began in 2015 with a dark retelling of Beauty and the Beast.",
+        "status": "supported",
+        "evidence": "The reference confirms it is 'the sixth in the series known to fans as Acotar' and the first book was 'published in 2015' as a 'dark retelling of Beauty and the Beast'."
+      },
+      {
+        "claim": "By 2021, the series had sold 13 million copies.",
+        "status": "supported",
+        "evidence": "The reference states: 'By 2021 the series had sold 13m copies'."
+      },
+      {
+        "claim": "Across her three interlinked fantasy series, Maas has now sold more than 75 million books in 40 languages.",
+        "status": "supported",
+        "evidence": "The reference confirms: 'across her three interlinked fantasy series, Maas has now sold more than 75 m books in 40 languages'."
+      },
+      {
+        "claim": "Some attendees finished the entire volume within a few hours.",
+        "status": "supported",
+        "evidence": "The reference quotes Maynard James: 'Some people stayed up and devoured the whole thing in a few hours'."
+      },
+      {
+        "claim": "The shop ordered approximately 750 copies to cover both balls and pre-orders.",
+        "status": "supported",
+        "evidence": "The reference states they 'ordered about 750 copies to cover both balls and its pre-orders'."
+      },
+      {
+        "claim": "Last year, Onyx Storm by Rebecca Yarros recorded the biggest first week for a hardback novel in the UK since Harper Lee’s Go Set a Watchman in 2015.",
+        "status": "supported",
+        "evidence": "The reference confirms this exact statistic regarding 'Onyx Storm by Rebecca Yarros'."
+      },
+      {
+        "claim": "In 2024, robust sales in romance and fantasy helped push UK fiction revenue above £1 billion for the first time.",
+        "status": "supported",
+        "evidence": "The reference states: 'In 2024, booming sales of romance and fantasy helped push UK fiction revenue above £1bn for the first time'."
+      },
+      {
+        "claim": "Starlin Marot, owner of Bad Girl Books in Oxford, the UK’s first romantasy-only shop, observed similar trends.",
+        "status": "supported",
+        "evidence": "The reference identifies Starlin Marot as 'owner of Bad Girl Books in Oxford, the UK’s first romantasy-only bookshop'."
+      },
+      {
+        "claim": "She described the scene as a crazy flurry of people, noting that the series often serves as a gateway drug into reading for young women.",
+        "status": "supported",
+        "evidence": "The reference quotes Marot describing it as 'a flurry of people' and stating 'the series has been like a gateway drug into the genre, or into reading itself'."
+      },
+      {
+        "claim": "Main Character Books opted for a different approach, serving breakfast to readers collecting pre-orders and hosting an evening party for 45 guests.",
+        "status": "supported",
+        "evidence": "The reference confirms Main Character Books served 'breakfast to readers collecting pre-orders instead and holding an evening party for 45 people'."
+      },
+      {
+        "claim": "Owner Cassie Simmons reported that pre-orders in early October exceeded expectations, forcing them to double their order with the publisher.",
+        "status": "supported",
+        "evidence": "The reference quotes Simmons: 'In early October we had more pre-orders than we expected … we doubled our order at the publisher'."
+      },
+      {
+        "claim": "A Court of Splintered Harmony is the first part of a four-part story.",
+        "status": "supported",
+        "evidence": "The reference states: 'The latest book is the first part of a four-part story'."
+      },
+      {
+        "claim": "The next two parts will be released together in A Court of Forgotten Melody on January 12, while the final installment is still being written.",
+        "status": "supported",
+        "evidence": "The reference confirms: 'A Court of Forgotten Melody, out on 12 January, contains the next two parts, and the last is still being written'."
+      },
+      {
+        "claim": "Sarah J Maas's new novel release sparks ticket chaos and fan mania",
+        "status": "unsupported",
+        "evidence": "While the draft title uses 'chaos', the reference describes the website crashing and queues forming but does not use the word 'chaos' nor describe the events as chaotic beyond high demand; however, this is a stylistic choice rather than a factual error. More critically, the draft implies the 'chaos' was the primary driver, whereas the reference emphasizes the 'hype' and 'five-year wait'. This claim is technically supported by the description of crashes and queues, but the specific phrasing 'ticket chaos' is not in the source."
+      }
+    ],
+    "notes": "The draft article is highly accurate and closely mirrors the reference text from The Guardian. All specific numbers (6,000 people, 220 tickets, 13 minutes, £149, 750 copies, 13m/75m sales figures), dates (Tuesday 12:01 am, Jan 12), names (Ali Maynard James, Starlin Marot, Cassie Simmons), and locations (Leamington Spa, Ragley Hall, Bad Girl Books, Main Character Books) are verified. The only minor issue is the title's use of 'chaos', which is a subjective descriptor not explicitly used in the source, though the events described (website crash, huge queues) support the sentiment. There are no contradicted facts. The verdict is 'pass' as there are 0 contradicted and effectively 0 unsupported factual claims (the title interpretation is negligible).",
+    "revised": true
+  }
+}

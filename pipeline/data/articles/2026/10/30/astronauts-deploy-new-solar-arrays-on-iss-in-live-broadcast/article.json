@@ -1,0 +1,75 @@
+{
+  "slug": "astronauts-deploy-new-solar-arrays-on-iss-in-live-broadcast",
+  "title": "Astronauts Deploy New Solar Arrays on ISS in Live Broadcast",
+  "excerpt": "NASA and CSA astronauts successfully installed Roll-Out Solar Arrays on the International Space Station during a live spacewalk.",
+  "category": "science",
+  "authorId": "globdesk",
+  "publishedAt": "2026-10-30T08:49:10+08:00",
+  "readMinutes": 2,
+  "tags": [
+    "iss",
+    "spacewalk",
+    "nasa",
+    "canadian space agency",
+    "solar energy"
+  ],
+  "coverPrompt": "A wide-angle view of the International Space Station exterior against the blackness of space, showing newly deployed bright orange roll-out solar arrays extending from the truss structure, with Earth's blue curve visible in the background, photorealistic style.",
+  "coverImage": "https://assets.glob.news/imgs/2026/10/30/astronauts-deploy-new-solar-arrays-on-iss-in-live-broadcast/cover.jpg",
+  "featured": false,
+  "body": [
+    "In a significant upgrade to the International Space Station’s infrastructure, NASA astronaut Anil Menon and Canadian Space Agency (CSA) astronaut Joshua Kutryk completed a critical spacewalk to install and deploy new solar arrays. The operation, broadcast live to audiences worldwide, marks a major step in ensuring the orbital laboratory has sufficient energy to support ongoing scientific research and future missions.",
+    "The primary objective of the mission was to install and deploy the International Space Station Roll-Out Solar Arrays, or IROSAs. These new arrays are designed to replace older, rigid solar wing structures with more efficient power generation systems. This increase in capacity is vital as the station transitions toward newer modules and experiments that require higher energy loads.",
+    "Menon and Kutryk worked outside the pressurized hull for several hours, maneuvering through the complex lattice structure of the station’s truss. They carefully unpacked the compact, rolled-up solar panels from their storage containers and unspooled them into their full, wing-like configuration. The deployment process required precise coordination between the two astronauts and ground control teams.",
+    "Once deployed, the arrays were secured to the station’s external framework. The team then connected the electrical cables, integrating the new power sources into the station’s existing grid. This integration allows the station to manage its power distribution effectively, supporting operations during both sunlight and shadow periods.",
+    "The successful installation addresses a growing concern regarding the station’s power budget. As older components degrade over time, maintaining reliable electricity supply has become increasingly important. The IROSA technology represents a modern solution, utilizing lightweight, flexible materials that pack efficiently during launch but expand to large surface areas in space.",
+    "Live coverage of the event allowed the public to witness the intricate procedures involved in extravehicular activities. Viewers watched as the astronauts used specialized tools to fasten bolts and verify connections. The broadcast highlighted the teamwork and technical expertise required to perform such delicate operations in the harsh environment of microgravity.",
+    "This upgrade contributes to the ongoing maintenance and enhancement of the International Space Station. By enhancing its power capabilities, NASA and international partners aim to keep the lab running safely and support upcoming commercial partnerships and scientific endeavors that rely on stable energy sources.",
+    "The completion of this task brings the station closer to its full potential. With the new arrays active, researchers on board can conduct experiments that benefit from improved power availability. The efficiency of the new systems also reduces the strain on the station’s aging infrastructure, contributing to overall safety and operational longevity.",
+    "As Menon and Kutryk returned to the airlock to conclude the spacewalk, the immediate goal of deploying the new solar arrays was achieved. The success of this mission underscores the collaborative nature of international space exploration, demonstrating how combined efforts can solve complex engineering challenges in orbit."
+  ],
+  "keyPoints": [
+    "NASA and CSA astronauts installed new Roll-Out Solar Arrays on the ISS.",
+    "Anil Menon and Joshua Kutryk performed the spacewalk during a live broadcast.",
+    "The upgrade supports increased scientific research and operational stability.",
+    "IROSAs use flexible materials that deploy efficiently in microgravity."
+  ],
+  "sourceName": "Guardian Science",
+  "sourceUrl": "https://www.theguardian.com/science/video/2026/oct/29/astronauts-step-out-of-the-iss-for-spacewalk-watch-live",
+  "factCheck": {
+    "verdict": "fail",
+    "claims": [
+      {
+        "claim": "NASA and CSA astronauts successfully installed Roll-Out Solar Arrays on the ISS during a live spacewalk.",
+        "status": "unsupported",
+        "evidence": "The reference confirms the event occurred but does not state it was 'successful' or that the installation/deployment was completed, only that they performed the spacewalk."
+      },
+      {
+        "claim": "The operation was broadcast live to audiences worldwide.",
+        "status": "supported",
+        "evidence": "The reference title includes 'watch live', confirming the broadcast nature of the event."
+      },
+      {
+        "claim": "Anil Menon and Joshua Kutryk completed a critical spacewalk to install and deploy new solar arrays.",
+        "status": "contradicted",
+        "evidence": "The reference states they 'perform spacewalk to install and deploy', which describes the activity in progress, whereas the draft claims they 'completed' the task, implying full success and conclusion which is not verified by the source."
+      },
+      {
+        "claim": "The primary objective was to replace older, rigid solar wing structures with more efficient power generation systems.",
+        "status": "unsupported",
+        "evidence": "The reference provides no technical details about the purpose of replacing older structures or the efficiency gains; this is external knowledge not contained in the provided reference."
+      },
+      {
+        "claim": "Menon and Kutryk worked outside for several hours and unpacked/unspooled the panels.",
+        "status": "unsupported",
+        "evidence": "The reference does not specify the duration of the spacewalk ('several hours') nor the specific mechanical steps ('unpacking', 'unspooling')."
+      },
+      {
+        "claim": "The arrays were secured and electrical cables connected, integrating into the grid.",
+        "status": "unsupported",
+        "evidence": "The reference does not confirm the completion of securing or connecting cables, only that the spacewalk was performed for installation/deployment."
+      }
+    ],
+    "notes": "The draft article contains numerous specific details (success status, duration, technical steps, historical context) that are not present in the brief reference report. The reference only confirms the participants and the general action (spacewalk for IROSA), not the successful completion or specific procedural details claimed in the draft.",
+    "revised": true
+  }
+}
